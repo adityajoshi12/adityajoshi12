@@ -52,11 +52,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL with NodeJs and MongoDB](https://medium.com/@adityaajoshi/graphql-with-nodejs-and-mongodb-dea4512d7ed2?source=rss-63332736e4ac------2)
 - [Hyperledger Fabric 2.2 Tutorial](https://medium.com/@adityaajoshi/hyperledger-fabric-2-2-tutorial-eb21618d5fa?source=rss-63332736e4ac------2)
 - [REST API With Golang and Gorilla Mux](https://medium.com/@adityaajoshi/rest-api-with-golang-and-gorilla-mux-136586e2aad3?source=rss-63332736e4ac------2)
 - [Getting started with - Hyperledger Besu](https://medium.com/@adityaajoshi/getting-started-with-hyperledger-besu-6657598ebcfe?source=rss-63332736e4ac------2)
 - [Getting started with ag-Grid and Angular](https://medium.com/@adityaajoshi/getting-started-with-ag-grid-and-angular-12e828b56a21?source=rss-63332736e4ac------2)
-- [Setup your own private Ethereum Private Network (Part 1)](https://medium.com/@adityaajoshi/setup-your-own-private-ethereum-private-network-part-1-fb1e870dc415?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

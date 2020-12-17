@@ -1,5 +1,5 @@
 ### Hi there, I'm [Aditya Joshi][website] 👋
-
+![](https://komarev.com/ghpvc/?username=adityajoshi12)
 [![Website](https://img.shields.io/website?label=adityajoshi.online&style=for-the-badge&url=https%3A%2F%2Fadityajoshi.online)](https://adityajoshi.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityaj48137262?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityajoshi12)
 

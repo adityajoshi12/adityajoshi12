@@ -52,7 +52,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding a new Orderer in Running Hyperledger Fabric v2.2 Network](https://medium.com/@adityaajoshi/adding-a-new-orderer-in-running-hyperledger-fabric-v2-2-network-4c90c8315ae1?source=rss-63332736e4ac------2)
+- [Adding a new Orderer in Running Hyperledger Fabric v2.2 Network](https://medium.com/coinmonks/adding-a-new-orderer-in-running-hyperledger-fabric-v2-2-network-4c90c8315ae1?source=rss-63332736e4ac------2)
 - [Hyperledger Besu — Getting Started: Part 2](https://medium.com/@adityaajoshi/hyperledger-besu-getting-started-part-2-a5388f14462b?source=rss-63332736e4ac------2)
 - [Internationalization in Flutter using GetX](https://medium.com/@adityaajoshi/internationalization-in-flutter-using-getx-6d715f6b1c82?source=rss-63332736e4ac------2)
 - [GraphQL with NodeJs and MongoDB](https://medium.com/@adityaajoshi/graphql-with-nodejs-and-mongodb-dea4512d7ed2?source=rss-63332736e4ac------2)

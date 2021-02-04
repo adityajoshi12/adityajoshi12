@@ -52,7 +52,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Redis Cluster](https://medium.com/@adityaajoshi/setting-up-redis-cluster-6a1012155868?source=rss-63332736e4ac------2)
+- [Setting Up Redis Cluster](https://medium.com/coinmonks/setting-up-redis-cluster-6a1012155868?source=rss-63332736e4ac------2)
 - [Setting up RabbitMQ Cluster](https://medium.com/coinmonks/setting-up-rabbitmq-cluster-c247d61385ed?source=rss-63332736e4ac------2)
 - [Integrating Hyperledger Explorer with Hyperledger Fabric Network v2.2](https://medium.com/coinmonks/integrating-hyperledger-explorer-with-hyperledger-fabric-network-v2-2-9a70e4c5311?source=rss-63332736e4ac------2)
 - [Modifying the Batch Size in Hyperledger Fabric v2.2](https://medium.com/coinmonks/modifying-the-batch-size-in-hyperledger-fabric-v2-2-3ec2dd779e2b?source=rss-63332736e4ac------2)

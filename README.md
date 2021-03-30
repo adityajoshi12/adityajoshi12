@@ -8,7 +8,7 @@
 - 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other awesome creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 

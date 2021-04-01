@@ -12,6 +12,7 @@
 
 ## Courses
 - <img src="https://img-a.udemycdn.com/course/480x270/3741540_d31f_4.jpg" width="100px"/> <h4> Learn to Deploy Hyperledger Fabric v2.2 on Multihost</h4>
+- <img src="https://img-a.udemycdn.com/course/480x270/3815532_1edc_2.jpg" width="100px"/> <h4> Master Class On Hyperledger Besu</h4>
 
 
 ### Connect with me:

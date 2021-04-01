@@ -64,19 +64,21 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#607](https://github.com/hyperledger/besu-docs/issues/607) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
 2. 💪 Opened PR [#607](https://github.com/hyperledger/besu-docs/pull/607) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
 <!--END_SECTION:activity-->
 </details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true" />
+
+</details>
+
+
 
 [website]: https://adityajoshi.online
 [course]: http://vsCodeHero.com

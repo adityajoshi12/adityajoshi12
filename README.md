@@ -81,12 +81,7 @@
 
 
 [website]: https://adityajoshi.online
-[course]: http://vsCodeHero.com
+[course]: https://www.udemy.com/course/learn-to-deploy-hyperledger-fabric-v22-on-multihost/
 [twitter]: https://twitter.com/adityaj48137262
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/aditya_joshi_official
 [linkedin]: https://linkedin.com/in/adityajoshi12
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0

@@ -70,6 +70,8 @@
 
 </details>
 
+<!--START_SECTION:activity-->
+
 [website]: https://adityajoshi.online
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/adityaj48137262

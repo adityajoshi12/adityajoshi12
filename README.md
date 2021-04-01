@@ -71,6 +71,9 @@
 </details>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#607](https://github.com/hyperledger/besu-docs/issues/607) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
+2. 💪 Opened PR [#607](https://github.com/hyperledger/besu-docs/pull/607) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
+<!--END_SECTION:activity-->
 
 [website]: https://adityajoshi.online
 [course]: http://vsCodeHero.com

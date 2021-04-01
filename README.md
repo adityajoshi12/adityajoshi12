@@ -71,8 +71,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#607](https://github.com/hyperledger/besu-docs/issues/607) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
-2. 💪 Opened PR [#607](https://github.com/hyperledger/besu-docs/pull/607) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
+1. 💪 Opened PR [#2](https://github.com/adityajoshi12/hello-github-actions/pull/2) in [adityajoshi12/hello-github-actions](https://github.com/adityajoshi12/hello-github-actions)
+2. 🗣 Commented on [#607](https://github.com/hyperledger/besu-docs/issues/607) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
 <!--END_SECTION:activity-->
 </details>
 

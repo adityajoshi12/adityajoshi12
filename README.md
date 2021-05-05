@@ -71,8 +71,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1253](https://github.com/apache/couchdb/issues/1253) in [apache/couchdb](https://github.com/apache/couchdb)
-2. 🗣 Commented on [#2](https://github.com/adityajoshi12/fabric-samples-advance-topics/issues/2) in [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
+1. ❗️ Opened issue [#210](https://github.com/syncfusion/flutter-widgets/issues/210) in [syncfusion/flutter-widgets](https://github.com/syncfusion/flutter-widgets)
+2. 🗣 Commented on [#1253](https://github.com/apache/couchdb/issues/1253) in [apache/couchdb](https://github.com/apache/couchdb)
 <!--END_SECTION:activity-->
 </details>
 

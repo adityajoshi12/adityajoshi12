@@ -3,9 +3,10 @@
 [![Website](https://img.shields.io/website?label=adityajoshi.online&style=for-the-badge&url=https%3A%2F%2Fadityajoshi.online)](https://adityajoshi.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityaj48137262?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityajoshi12)
 
-## I'm a Blockchain Developer,Cloud Engineer  and Architect!!
+## I'm a Blockchain Engineer, Cloud Engineer and Architect!!
 
 - 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!
+- 🥅 Working on Enterprise Blockchain Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other awesome creators
 - 🥅 2021 Goals: Contribute more to Open Source projects

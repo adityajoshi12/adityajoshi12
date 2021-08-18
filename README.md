@@ -6,8 +6,9 @@
 ## I'm a Blockchain Engineer, Cloud Engineer and Architect!!
 
 - 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!
+- 🏆 I'm also Certified Kubernetes Application Developer (CKAD)!
 - 🥅 Working on Enterprise Blockchain Projects
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other awesome creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 

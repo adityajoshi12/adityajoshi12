@@ -69,12 +69,9 @@
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)
 
 ---
-detailsdetails
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/adhavpavan/FabricNetwork-2.x/pull/3) in [adhavpavan/FabricNetwork-2.x](https://github.com/adhavpavan/FabricNetwork-2.x)
-2. 🗣 Commented on [#210](https://github.com/syncfusion/flutter-widgets/issues/210) in [syncfusion/flutter-widgets](https://github.com/syncfusion/flutter-widgets)
 <!--END_SECTION:activity-->
 </details>
 

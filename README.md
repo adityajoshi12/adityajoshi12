@@ -69,7 +69,7 @@
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)
 
 ---
-
+detailsdetails
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
@@ -81,7 +81,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true" />
+  <img align="left" alt="Aditya Joshi's GitHub Stats" src="https://github-readme-stats-seven-beta.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -89,6 +89,6 @@
 
 [website]: https://adityajoshi.online
 [course]: https://www.udemy.com/course/learn-to-deploy-hyperledger-fabric-v22-on-multihost/
-[twitter]: https://twitter.com/adityaj48137262
+[twitter]: https://twitter.com/adityaajoshi12
 [instagram]: https://instagram.com/aditya_joshi_official
 [linkedin]: https://linkedin.com/in/adityajoshi12

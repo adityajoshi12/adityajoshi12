@@ -81,7 +81,7 @@ detailsdetails
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Aditya Joshi's GitHub Stats" src="https://github-readme-stats-seven-beta.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true" />
+  <img align="left" alt="Aditya Joshi's GitHub Stats" src="https://github-readme-stats-cqs1s6mnh-adityajoshi12.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true" />
 
 </details>
 

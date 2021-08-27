@@ -1,7 +1,7 @@
 ### Hi there, I'm [Aditya Joshi][website] 👋
 ![](https://komarev.com/ghpvc/?username=adityajoshi12&style=flat-square&label=PROFILE+VIEWS)
 [![Website](https://img.shields.io/website?label=adityajoshi.online&style=for-the-badge&url=https%3A%2F%2Fadityajoshi.online)](https://adityajoshi.online)
-[![Twitter Follow](https://img.shields.io/twitter/follow/adityaj48137262?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityajoshi12)
+[![Twitter Follow](https://img.shields.io/twitter/follow/adityaajoshi12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityajoshi12)
 
 ## I'm a Blockchain Engineer, Cloud Engineer and Architect!!
 
@@ -24,12 +24,39 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Likedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align='center'>
 
-<br />
+  <a href="https://twitter.com/adityaajoshi12">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+
+ <a href="mailto:adityaprakashjoshi1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/adityajoshi12/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+
+
+  
+  <a href="https://stackoverflow.com/users/8201020/aditya-joshi">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+
+  <a href="https://t.me/adityajoshi12">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/adityaprakashjoshi1/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
+  </a>&nbsp;&nbsp;
+
+
+</p>
+
+
 
 ### Languages and Tools:
 

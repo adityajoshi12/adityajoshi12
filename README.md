@@ -4,6 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityaajoshi12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityajoshi12)
 
 ## I'm a Blockchain Engineer, Cloud Engineer and Architect!!
+<br>
 
 - 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!
 - 🏆 I'm also Certified Kubernetes Application Developer (CKAD)!
@@ -13,6 +14,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ## Courses
+<br>
+
 - <img src="https://img-c.udemycdn.com/course/240x135/3741540_d31f_4.jpg" width="100px"/> [Learn to Deploy Hyperledger Fabric v2.2 on Multihost](https://udemy.com/course/learn-to-deploy-hyperledger-fabric-v22-on-multihost/)
 
 - <img src="https://img-c.udemycdn.com/course/240x135/3970920_6f16_4.jpg" width="100px"/> [The Complete Guide on Hyperledger Fabric v2.x on Kubernetes](https://www.udemy.com/course/hyperledger-fabric-on-kubernetes-complete-guide)
@@ -23,7 +26,7 @@
 
 
 ### Connect with me:
-
+<br>
 <p align='center'>
 
   <a href="https://twitter.com/adityaajoshi12">
@@ -107,12 +110,12 @@
 <!--END_SECTION:activity-->
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p align='center'>
+  <a href="#">
 
   <img align="left" alt="Aditya Joshi's GitHub Stats" src="https://github-readme-stats-cqs1s6mnh-adityajoshi12.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true&count_private=true" />
-
-</details>
+</a>
+</p>
 
 
 

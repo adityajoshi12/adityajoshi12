@@ -13,8 +13,13 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ## Courses
-- <img src="https://img-a.udemycdn.com/course/480x270/3741540_d31f_4.jpg" width="100px"/> [Learn to Deploy Hyperledger Fabric v2.2 on Multihost](https://udemy.com/course/learn-to-deploy-hyperledger-fabric-v22-on-multihost/)
-- <img src="https://img-a.udemycdn.com/course/480x270/3815532_1edc_2.jpg" width="100px"/> [Master Class On Hyperledger Besu](https://udemy.com/course/hyperledger-besu-master-class)
+- <img src="https://img-c.udemycdn.com/course/240x135/3741540_d31f_4.jpg" width="100px"/> [Learn to Deploy Hyperledger Fabric v2.2 on Multihost](https://udemy.com/course/learn-to-deploy-hyperledger-fabric-v22-on-multihost/)
+
+- <img src="https://img-c.udemycdn.com/course/240x135/3970920_6f16_4.jpg" width="100px"/> [The Complete Guide on Hyperledger Fabric v2.x on Kubernetes](https://www.udemy.com/course/hyperledger-fabric-on-kubernetes-complete-guide)
+
+- <img src="https://img-c.udemycdn.com/course/240x135/3815532_1edc_2.jpg" width="100px"/> [Master Class On Hyperledger Besu](https://udemy.com/course/hyperledger-besu-master-class)
+
+
 
 
 ### Connect with me:

@@ -104,6 +104,10 @@
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)
 
 ---
+
+[![Spotify](https://spotify-adityajoshi12.vercel.app/api/spotify)](https://open.spotify.com/user/skoldlhi3ffyvmx2ev5b8furk)
+
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
@@ -111,8 +115,7 @@
 </details>
 
 <p align='center'>
-  <a href="#">
-
+<a href="#">
   <img align="left" alt="Aditya Joshi's GitHub Stats" src="https://github-readme-stats-cqs1s6mnh-adityajoshi12.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true&count_private=true" />
 </a>
 </p>

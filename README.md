@@ -115,7 +115,7 @@
 </details>
 
 <p align='center'>
-<a href="#" target="_blank" rel="noopener noreferrer">
+<a href="https://github-readme-stats-cqs1s6mnh-adityajoshi12.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true&count_private=true" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Aditya Joshi's GitHub Stats" src="https://github-readme-stats-cqs1s6mnh-adityajoshi12.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true&count_private=true" />
 </a>
 </p>

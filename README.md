@@ -22,6 +22,7 @@
 
 - <img src="https://img-c.udemycdn.com/course/240x135/3815532_1edc_2.jpg" width="100px"/> [Master Class On Hyperledger Besu](https://udemy.com/course/hyperledger-besu-master-class)
 
+- <img src="https://img-c.udemycdn.com/course/240x135/3814476_e3c7.jpg" width="100px"/> [Certified Blockchain Developer Certification - 2021](https://www.udemy.com/course/certified-blockchain-developer-certification)
 
 
 
@@ -108,11 +109,11 @@
 [![Spotify](https://spotify-adityajoshi12.vercel.app/api/spotify)](https://open.spotify.com/user/skoldlhi3ffyvmx2ev5b8furk)
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-</details>
+
 
 <p align='center'>
 <a href="https://github-readme-stats-cqs1s6mnh-adityajoshi12.vercel.app/api?username=adityajoshi12&show_icons=true&hide_border=true&count_private=true" target="_blank" rel="noopener noreferrer">

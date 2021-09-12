@@ -112,7 +112,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1859](https://github.com/30-seconds/30-seconds-of-code/pull/1859) in [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+1. ❗️ Closed issue [#2](https://github.com/adityajoshi12/fabric-samples-advance-topics/issues/2) in [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
 <!--END_SECTION:activity-->
 
 

@@ -95,7 +95,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperledger Fabric performance benchmarking using Hyperleger Capiler](https://medium.com/coinmonks/hyperledger-fabric-blockchain-performance-benchmark-using-hyperleger-capiler-66d9a9af5cce?source=rss-63332736e4ac------2)
+- [Hyperledger Fabric performance benchmarking using Hyperledger Caliper](https://medium.com/coinmonks/hyperledger-fabric-blockchain-performance-benchmark-using-hyperleger-capiler-66d9a9af5cce?source=rss-63332736e4ac------2)
 - [Supabase: Setting up Authentication](https://medium.com/coinmonks/supabase-setting-up-authentication-15021c6d08e1?source=rss-63332736e4ac------2)
 - [Hyperledger Fabric v2.X Monitoring Using Prometheus](https://medium.com/coinmonks/hyperledger-fabric-v2-x-monitoring-using-prometheus-974e433073f5?source=rss-63332736e4ac------2)
 - [Setting Up Redis Cluster](https://medium.com/coinmonks/setting-up-redis-cluster-6a1012155868?source=rss-63332736e4ac------2)

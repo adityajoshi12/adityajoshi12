@@ -112,7 +112,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/adityajoshi12/fabric-samples-advance-topics/issues/2) in [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
+1. 💪 Opened PR [#117](https://github.com/Shubham56-droid/DataStruture-and-algroithms-program/pull/117) in [Shubham56-droid/DataStruture-and-algroithms-program](https://github.com/Shubham56-droid/DataStruture-and-algroithms-program)
 <!--END_SECTION:activity-->
 
 

@@ -114,12 +114,16 @@
 
 </div>
 
-<!-- YOUTUBE:START -->
-- [Peer Expired Certificates Renewal using Fabric CA | Hyperledger Fabric | Aditya Joshi](https://www.youtube.com/watch?v=wozZUYg4RF8)
-- [Hyperledger Fabric - Peer certificate renewal  | ADITYA JOSHI |](https://www.youtube.com/watch?v=yfk1ynliFwE)
-- [Storing Fabric CA Identities on Postgres using SSL verify-full | ADITYA JOSHI | POSTGRES |](https://www.youtube.com/watch?v=XuXymrUptEc)
-- [Hyperledger Fabric - Types of Peers](https://www.youtube.com/watch?v=SqgeEvqYMn0)
-- [Hyperledger Fabric CA with Postgres | Configure the Fabric CA server to connect to PostgreSQL.](https://www.youtube.com/watch?v=EHsF8_5YHJs)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wozZUYg4RF8"><img width="140px" src="https://i.ytimg.com/vi/wozZUYg4RF8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wozZUYg4RF8">Peer Expired Certificates Renewal using Fabric CA | Hyperledger Fabric | Aditya Joshi</a><br/>Nov 5, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yfk1ynliFwE"><img width="140px" src="https://i.ytimg.com/vi/yfk1ynliFwE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yfk1ynliFwE">Hyperledger Fabric - Peer certificate renewal  | ADITYA JOSHI |</a><br/>Nov 2, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XuXymrUptEc"><img width="140px" src="https://i.ytimg.com/vi/XuXymrUptEc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XuXymrUptEc">Storing Fabric CA Identities on Postgres using SSL verify-full | ADITYA JOSHI | POSTGRES |</a><br/>Oct 29, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SqgeEvqYMn0"><img width="140px" src="https://i.ytimg.com/vi/SqgeEvqYMn0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SqgeEvqYMn0">Hyperledger Fabric - Types of Peers</a><br/>Oct 28, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EHsF8_5YHJs"><img width="140px" src="https://i.ytimg.com/vi/EHsF8_5YHJs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EHsF8_5YHJs">Hyperledger Fabric CA with Postgres | Configure the Fabric CA server to connect to PostgreSQL.</a><br/>Oct 26, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

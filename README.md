@@ -109,7 +109,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Peer Expired Certificates Renewal using Fabric CA | Hyperledger Fabric | Aditya Joshi](https://www.youtube.com/watch?v=wozZUYg4RF8)
+- [Hyperledger Fabric - Peer certificate renewal  | ADITYA JOSHI |](https://www.youtube.com/watch?v=yfk1ynliFwE)
+- [Storing Fabric CA Identities on Postgres using SSL verify-full | ADITYA JOSHI | POSTGRES |](https://www.youtube.com/watch?v=XuXymrUptEc)
+- [Hyperledger Fabric - Types of Peers](https://www.youtube.com/watch?v=SqgeEvqYMn0)
+- [Hyperledger Fabric CA with Postgres | Configure the Fabric CA server to connect to PostgreSQL.](https://www.youtube.com/watch?v=EHsF8_5YHJs)
 <!-- YOUTUBE:END -->
 
 

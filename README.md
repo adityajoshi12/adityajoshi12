@@ -106,6 +106,15 @@
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+
+---
+
 [![Spotify](https://spotify-adityajoshi12.vercel.app/api/spotify)](https://open.spotify.com/user/skoldlhi3ffyvmx2ev5b8furk)
 
 

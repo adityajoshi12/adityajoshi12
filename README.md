@@ -108,6 +108,12 @@
 
 ### 📺 Latest YouTube Videos
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCL0SMt31uGzKqbKCQ7Zprxg?sub_confirmation=1)
+
+</div>
+
 <!-- YOUTUBE:START -->
 - [Peer Expired Certificates Renewal using Fabric CA | Hyperledger Fabric | Aditya Joshi](https://www.youtube.com/watch?v=wozZUYg4RF8)
 - [Hyperledger Fabric - Peer certificate renewal  | ADITYA JOSHI |](https://www.youtube.com/watch?v=yfk1ynliFwE)

@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#206](https://github.com/Shubham56-droid/DataStruture-and-algroithms-program/pull/206) in [Shubham56-droid/DataStruture-and-algroithms-program](https://github.com/Shubham56-droid/DataStruture-and-algroithms-program)
+1. 🗣 Commented on [#3](https://github.com/adityajoshi12/fabric-samples-advance-topics/issues/3) in [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
 <!--END_SECTION:activity-->
 
 

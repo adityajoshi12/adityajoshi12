@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/kfsoftware/hlf-operator/pull/26) in [kfsoftware/hlf-operator](https://github.com/kfsoftware/hlf-operator)
+1. 💪 Opened PR [#27](https://github.com/kfsoftware/hlf-operator/pull/27) in [kfsoftware/hlf-operator](https://github.com/kfsoftware/hlf-operator)
 <!--END_SECTION:activity-->
 
 

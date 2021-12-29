@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/kfsoftware/hlf-operator/pull/30) in [kfsoftware/hlf-operator](https://github.com/kfsoftware/hlf-operator)
+1. ❗️ Closed issue [#3](https://github.com/adityajoshi12/fabric-samples-advance-topics/issues/3) in [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
 <!--END_SECTION:activity-->
 
 

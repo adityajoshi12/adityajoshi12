@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/kfsoftware/hlf-operator/pull/32) in [kfsoftware/hlf-operator](https://github.com/kfsoftware/hlf-operator)
+1. 🗣 Commented on [#1](https://github.com/adityajoshi12/kafka-nodejs/issues/1) in [adityajoshi12/kafka-nodejs](https://github.com/adityajoshi12/kafka-nodejs)
 <!--END_SECTION:activity-->
 
 

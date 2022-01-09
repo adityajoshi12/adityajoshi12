@@ -11,7 +11,7 @@
 - 🥅 Working on Enterprise Blockchain Projects
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other awesome creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ## Courses
 <br>

@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
- <a target="_blank" rel="noopener noreferrer" href="mailto:adityaprakashjoshi1@gmail.com">
+ <a target="_blank" rel="noopener noreferrer" href="mailto:connect@adityajoshi.online">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
   

@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/adityajoshi12/kafka-nodejs/issues/1) in [adityajoshi12/kafka-nodejs](https://github.com/adityajoshi12/kafka-nodejs)
+1. 🗣 Commented on [#21](https://github.com/kfsoftware/hlf-operator/issues/21) in [kfsoftware/hlf-operator](https://github.com/kfsoftware/hlf-operator)
 <!--END_SECTION:activity-->
 
 

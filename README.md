@@ -115,9 +115,9 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=p6eW4t71XrM"><img width="140px" src="https://i.ytimg.com/vi/p6eW4t71XrM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=p6eW4t71XrM">Creating Kubernetes Cluster | HLF- Operator | ADITYA JOSHI |</a><br/>Feb 1, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=p6eW4t71XrM">Creating Kubernetes Cluster - Part 2 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Feb 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e04TcJHUI5M"><img width="140px" src="https://i.ytimg.com/vi/e04TcJHUI5M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=e04TcJHUI5M">HLF Operator Introduction | Hyperledger Fabric On Kubernetes | ADITYA JOSHI</a><br/>Jan 24, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=e04TcJHUI5M">HLF Operator Introduction - Part 1| Hyperledger Fabric On Kubernetes | ADITYA JOSHI</a><br/>Jan 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wr2eqcuzrAU"><img width="140px" src="https://i.ytimg.com/vi/wr2eqcuzrAU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wr2eqcuzrAU">Adding New Orderer in Running Hyperledger Fabric | Channel Participation API | ADITYA JOSHI |</a><br/>Jan 4, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_y0yGAbLknU"><img width="140px" src="https://i.ytimg.com/vi/_y0yGAbLknU/mqdefault.jpg"></a></td>

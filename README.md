@@ -114,7 +114,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=p6eW4t71XrM"><img width="140px" src="https://i.ytimg.com/vi/p6eW4t71XrM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Q2mmFEwfBko"><img width="140px" src="https://i.ytimg.com/vi/Q2mmFEwfBko/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Q2mmFEwfBko">Installing the HLF Operator - Part 3 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Feb 4, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=p6eW4t71XrM"><img width="140px" src="https://i.ytimg.com/vi/p6eW4t71XrM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p6eW4t71XrM">Creating Kubernetes Cluster - Part 2 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Feb 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e04TcJHUI5M"><img width="140px" src="https://i.ytimg.com/vi/e04TcJHUI5M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e04TcJHUI5M">HLF Operator Introduction - Part 1| Hyperledger Fabric On Kubernetes | ADITYA JOSHI</a><br/>Jan 24, 2022</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=wr2eqcuzrAU">Adding New Orderer in Running Hyperledger Fabric | Channel Participation API | ADITYA JOSHI |</a><br/>Jan 4, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_y0yGAbLknU"><img width="140px" src="https://i.ytimg.com/vi/_y0yGAbLknU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_y0yGAbLknU">Kubernetes Backup &amp; Restore using Velero | ADITYA JOSHI |</a><br/>Nov 30, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=C0unM4XuIoM"><img width="140px" src="https://i.ytimg.com/vi/C0unM4XuIoM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C0unM4XuIoM">Adding a new Organization to Existing Hyperledger Fabric Network  | ADITYA JOSHI |</a><br/>Nov 23, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

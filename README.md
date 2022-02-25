@@ -114,7 +114,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=R5A-PlFVMvc"><img width="140px" src="https://i.ytimg.com/vi/R5A-PlFVMvc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=docdS_yMNkc"><img width="140px" src="https://i.ytimg.com/vi/docdS_yMNkc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=docdS_yMNkc">Channel Operation - Part 8  | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Feb 25, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=R5A-PlFVMvc"><img width="140px" src="https://i.ytimg.com/vi/R5A-PlFVMvc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R5A-PlFVMvc">Ordering Service - Part 7 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Feb 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YS1AcyMKoDY"><img width="140px" src="https://i.ytimg.com/vi/YS1AcyMKoDY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YS1AcyMKoDY">Registering &amp; Enrolling Admin Certs - Part 6 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Feb 18, 2022</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=CRfmFw3OVgU">Peer Nodes - Part 5 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Feb 15, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=j1wNbl9-GLo"><img width="140px" src="https://i.ytimg.com/vi/j1wNbl9-GLo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=j1wNbl9-GLo">Creating Certificate Authority - Part 4 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Feb 11, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Q2mmFEwfBko"><img width="140px" src="https://i.ytimg.com/vi/Q2mmFEwfBko/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Q2mmFEwfBko">Installing the HLF Operator - Part 3 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Feb 4, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

@@ -115,7 +115,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=03vLRakbRkI"><img width="140px" src="https://i.ytimg.com/vi/03vLRakbRkI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=03vLRakbRkI">Istio and DNS Setup - Part 14 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Apr 9, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=03vLRakbRkI">Istio and DNS Setup - Part 14 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Apr 12, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=33VEu9Kqvno"><img width="140px" src="https://i.ytimg.com/vi/33VEu9Kqvno/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=33VEu9Kqvno">Logging in Kubernetes | Fluent Bit | Observability | ADITYA JOSHI |</a><br/>Apr 5, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ypu1BrXgW0U"><img width="140px" src="https://i.ytimg.com/vi/Ypu1BrXgW0U/mqdefault.jpg"></a></td>

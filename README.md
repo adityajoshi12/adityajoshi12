@@ -114,7 +114,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=03vLRakbRkI"><img width="140px" src="https://i.ytimg.com/vi/03vLRakbRkI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5aRj6Nr1CBk"><img width="140px" src="https://i.ytimg.com/vi/5aRj6Nr1CBk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5aRj6Nr1CBk">Istio Enabled Blockchain Network - Part 15 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Apr 15, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=03vLRakbRkI"><img width="140px" src="https://i.ytimg.com/vi/03vLRakbRkI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=03vLRakbRkI">Istio and DNS Setup - Part 14 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Apr 12, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=33VEu9Kqvno"><img width="140px" src="https://i.ytimg.com/vi/33VEu9Kqvno/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=33VEu9Kqvno">Logging in Kubernetes | Fluent Bit | Observability | ADITYA JOSHI |</a><br/>Apr 5, 2022</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=Ypu1BrXgW0U">NodeJs Client Application - Part 13 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Mar 15, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QWIk1UdIh5c"><img width="140px" src="https://i.ytimg.com/vi/QWIk1UdIh5c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QWIk1UdIh5c">Kubernetes Cluster Migration | Migrating Data Across Clusters | ADITYA JOSHI |</a><br/>Mar 15, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZhH4OA4rkdA"><img width="140px" src="https://i.ytimg.com/vi/ZhH4OA4rkdA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZhH4OA4rkdA">Invoke &amp; Query Chaincode - Part 12 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Mar 11, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

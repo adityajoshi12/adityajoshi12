@@ -114,7 +114,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OmgCp4G__JA"><img width="140px" src="https://i.ytimg.com/vi/OmgCp4G__JA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=U49iMnPvvLk"><img width="140px" src="https://i.ytimg.com/vi/U49iMnPvvLk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=U49iMnPvvLk">Distributed Tracing in Kubernetes - Part 2 | Sidecar Pattern | OpenTelemetry | ADITYA JOSHI |</a><br/>Apr 26, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OmgCp4G__JA"><img width="140px" src="https://i.ytimg.com/vi/OmgCp4G__JA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OmgCp4G__JA">Distributed Tracing in Kubernetes - Part 1 | Daemonset Pattern | OpenTelemetry |  ADITYA JOSHI |</a><br/>Apr 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0VUx9CYn4z8"><img width="140px" src="https://i.ytimg.com/vi/0VUx9CYn4z8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0VUx9CYn4z8">Adding a new Org in MultiCluster Env - Part 16  | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Apr 19, 2022</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=5aRj6Nr1CBk">Istio Enabled Blockchain Network - Part 15 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Apr 15, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=03vLRakbRkI"><img width="140px" src="https://i.ytimg.com/vi/03vLRakbRkI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=03vLRakbRkI">Istio and DNS Setup - Part 14 | Hyperledger Fabric On Kubernetes | ADITYA JOSHI |</a><br/>Apr 12, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=33VEu9Kqvno"><img width="140px" src="https://i.ytimg.com/vi/33VEu9Kqvno/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=33VEu9Kqvno">Logging in Kubernetes | Fluent Bit | Observability | ADITYA JOSHI |</a><br/>Apr 5, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

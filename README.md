@@ -115,7 +115,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yvThxgOLXxE"><img width="140px" src="https://i.ytimg.com/vi/yvThxgOLXxE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yvThxgOLXxE">Apache Kakfa on KRaft Mode| Kafka On Kubernetes | ADITYA JOSHI |</a><br/>May 6, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=yvThxgOLXxE">Apache Kakfa on KRaft Mode | Kafka On Kubernetes | ADITYA JOSHI |</a><br/>May 6, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=U49iMnPvvLk"><img width="140px" src="https://i.ytimg.com/vi/U49iMnPvvLk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U49iMnPvvLk">Distributed Tracing in Kubernetes - Part 2 | Sidecar Pattern | OpenTelemetry | ADITYA JOSHI |</a><br/>Apr 26, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OmgCp4G__JA"><img width="140px" src="https://i.ytimg.com/vi/OmgCp4G__JA/mqdefault.jpg"></a></td>

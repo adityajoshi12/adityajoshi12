@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/kubernetes/kubernetes/issues/140) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🎉 Merged PR [#5](https://github.com/adityajoshi12/mqtt-backend/pull/5) in [adityajoshi12/mqtt-backend](https://github.com/adityajoshi12/mqtt-backend)
 <!--END_SECTION:activity-->
 
 

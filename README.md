@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/adityajoshi12/ag-grid-demo/pull/22) in [adityajoshi12/ag-grid-demo](https://github.com/adityajoshi12/ag-grid-demo)
+1. 💪 Opened PR [#568](https://github.com/hyperledger-labs/blockchain-carbon-accounting/pull/568) in [hyperledger-labs/blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting)
 <!--END_SECTION:activity-->
 
 

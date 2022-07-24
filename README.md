@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#563](https://github.com/hyperledger-labs/blockchain-carbon-accounting/issues/563) in [hyperledger-labs/blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting)
+1. 🎉 Merged PR [#3](https://github.com/adityajoshi12/mqtt-backend/pull/3) in [adityajoshi12/mqtt-backend](https://github.com/adityajoshi12/mqtt-backend)
 <!--END_SECTION:activity-->
 
 

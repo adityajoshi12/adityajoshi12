@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/adityajoshi12/mqtt-backend/pull/3) in [adityajoshi12/mqtt-backend](https://github.com/adityajoshi12/mqtt-backend)
+1. 🎉 Merged PR [#13](https://github.com/adityajoshi12/besu-quickstart/pull/13) in [adityajoshi12/besu-quickstart](https://github.com/adityajoshi12/besu-quickstart)
 <!--END_SECTION:activity-->
 
 

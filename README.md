@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/adityajoshi12/Flutter-Stacked/pull/3) in [adityajoshi12/Flutter-Stacked](https://github.com/adityajoshi12/Flutter-Stacked)
+1. 💪 Opened PR [#116](https://github.com/hyperledger-labs/hlf-operator/pull/116) in [hyperledger-labs/hlf-operator](https://github.com/hyperledger-labs/hlf-operator)
 <!--END_SECTION:activity-->
 
 

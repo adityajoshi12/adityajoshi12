@@ -114,7 +114,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5dcxM8TnKJc"><img width="140px" src="https://i.ytimg.com/vi/5dcxM8TnKJc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EaUWZJJ187E"><img width="140px" src="https://i.ytimg.com/vi/EaUWZJJ187E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EaUWZJJ187E">Setting up Prometheus | Monitoring Kubernetes | ADITYA JOSHI</a><br/>Sep 2, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5dcxM8TnKJc"><img width="140px" src="https://i.ytimg.com/vi/5dcxM8TnKJc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5dcxM8TnKJc">Kubernetes Client-Go | Pod Delete Notification | Custom Controller | Infomers | ADITYA JOSHI |</a><br/>Jun 4, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tQvpZSWYt8E"><img width="140px" src="https://i.ytimg.com/vi/tQvpZSWYt8E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tQvpZSWYt8E">Kubernetes Client-Go | Creating Kubernetes Native Applications | ADITYA JOSHI |</a><br/>May 24, 2022</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=yvThxgOLXxE">Apache Kakfa on KRaft Mode | Kafka On Kubernetes | ADITYA JOSHI |</a><br/>May 6, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=U49iMnPvvLk"><img width="140px" src="https://i.ytimg.com/vi/U49iMnPvvLk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U49iMnPvvLk">Distributed Tracing in Kubernetes - Part 2 | Sidecar Pattern | OpenTelemetry | ADITYA JOSHI |</a><br/>Apr 26, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OmgCp4G__JA"><img width="140px" src="https://i.ytimg.com/vi/OmgCp4G__JA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OmgCp4G__JA">Distributed Tracing in Kubernetes - Part 1 | Daemonset Pattern | OpenTelemetry |  ADITYA JOSHI |</a><br/>Apr 22, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2610](https://github.com/kubernetes-sigs/krew-index/issues/2610) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+1. 🗣 Commented on [#10](https://github.com/adityajoshi12/Flutter-Stacked/issues/10) in [adityajoshi12/Flutter-Stacked](https://github.com/adityajoshi12/Flutter-Stacked)
 <!--END_SECTION:activity-->
 
 

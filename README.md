@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#118](https://github.com/hyperledger-labs/hlf-operator/issues/118) in [hyperledger-labs/hlf-operator](https://github.com/hyperledger-labs/hlf-operator)
+1. 🗣 Commented on [#2610](https://github.com/kubernetes-sigs/krew-index/issues/2610) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
 <!--END_SECTION:activity-->
 
 

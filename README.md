@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2610](https://github.com/kubernetes-sigs/krew-index/issues/2610) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+1. 🗣 Commented on [#1](https://github.com/adityajoshi12/ipfs-example/issues/1) in [adityajoshi12/ipfs-example](https://github.com/adityajoshi12/ipfs-example)
 <!--END_SECTION:activity-->
 
 

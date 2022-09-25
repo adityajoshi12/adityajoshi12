@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/adityajoshi12/kubernetes-development/pull/2) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+1. ❗️ Closed issue [#118](https://github.com/hyperledger-labs/hlf-operator/issues/118) in [hyperledger-labs/hlf-operator](https://github.com/hyperledger-labs/hlf-operator)
 <!--END_SECTION:activity-->
 
 

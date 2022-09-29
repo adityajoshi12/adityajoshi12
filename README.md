@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#118](https://github.com/hyperledger-labs/hlf-operator/issues/118) in [hyperledger-labs/hlf-operator](https://github.com/hyperledger-labs/hlf-operator)
+1. 🎉 Merged PR [#5](https://github.com/adityajoshi12/kubernetes-development/pull/5) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 <!--END_SECTION:activity-->
 
 

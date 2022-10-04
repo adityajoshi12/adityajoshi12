@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#121](https://github.com/hyperledger-labs/hlf-operator/pull/121) in [hyperledger-labs/hlf-operator](https://github.com/hyperledger-labs/hlf-operator)
+1. 🗣 Commented on [#121](https://github.com/hyperledger-labs/hlf-operator/issues/121) in [hyperledger-labs/hlf-operator](https://github.com/hyperledger-labs/hlf-operator)
 <!--END_SECTION:activity-->
 
 

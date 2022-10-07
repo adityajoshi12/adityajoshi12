@@ -114,7 +114,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tEVGTGS_jQE"><img width="140px" src="https://i.ytimg.com/vi/tEVGTGS_jQE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QO7TRRPc1AY"><img width="140px" src="https://i.ytimg.com/vi/QO7TRRPc1AY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QO7TRRPc1AY">Extending Kubectl with plugin | Creating Kubectl plugin | ADITYA JOSHI |</a><br/>Oct 7, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tEVGTGS_jQE"><img width="140px" src="https://i.ytimg.com/vi/tEVGTGS_jQE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tEVGTGS_jQE">Kubernetes Client-Go | Deploying Custom Controller | Custom Controller | Infomers | ADITYA JOSHI |</a><br/>Sep 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-kaRDFvOfxQ"><img width="140px" src="https://i.ytimg.com/vi/-kaRDFvOfxQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-kaRDFvOfxQ">Setting up Grafana | Monitoring Kubernetes | ADITYA JOSHI</a><br/>Sep 16, 2022</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=EaUWZJJ187E">Setting up Prometheus | Monitoring Kubernetes | ADITYA JOSHI</a><br/>Sep 2, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5dcxM8TnKJc"><img width="140px" src="https://i.ytimg.com/vi/5dcxM8TnKJc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5dcxM8TnKJc">Kubernetes Client-Go | Pod Delete Notification | Custom Controller | Infomers | ADITYA JOSHI |</a><br/>Jun 4, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tQvpZSWYt8E"><img width="140px" src="https://i.ytimg.com/vi/tQvpZSWYt8E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tQvpZSWYt8E">Kubernetes Client-Go | Creating Kubernetes Native Applications | ADITYA JOSHI |</a><br/>May 24, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

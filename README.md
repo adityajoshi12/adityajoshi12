@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/hyperledger-labs/hlf-operator/pull/122) in [hyperledger-labs/hlf-operator](https://github.com/hyperledger-labs/hlf-operator)
+1. 🎉 Merged PR [#1](https://github.com/adityajoshi12/S3-springboot-example/pull/1) in [adityajoshi12/S3-springboot-example](https://github.com/adityajoshi12/S3-springboot-example)
 <!--END_SECTION:activity-->
 
 

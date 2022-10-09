@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/hyperledger-labs/hlf-connector/pull/61) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+1. 🎉 Merged PR [#6](https://github.com/adityajoshi12/kubernetes-development/pull/6) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 <!--END_SECTION:activity-->
 
 

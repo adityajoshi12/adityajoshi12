@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/hyperledger-labs/hlf-connector/pull/62) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+1. ❗️ Opened issue [#2044](https://github.com/hyperledger/bevel/issues/2044) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--END_SECTION:activity-->
 
 

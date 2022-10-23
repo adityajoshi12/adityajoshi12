@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#633](https://github.com/hyperledger-labs/blockchain-carbon-accounting/pull/633) in [hyperledger-labs/blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting)
+1. 🗣 Commented on [#123](https://github.com/hyperledger-labs/hlf-operator/issues/123) in [hyperledger-labs/hlf-operator](https://github.com/hyperledger-labs/hlf-operator)
 <!--END_SECTION:activity-->
 
 

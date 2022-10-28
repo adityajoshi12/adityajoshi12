@@ -114,7 +114,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2epdFWbiE_c"><img width="140px" src="https://i.ytimg.com/vi/2epdFWbiE_c/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oqqjRHcgVeQ"><img width="140px" src="https://i.ytimg.com/vi/oqqjRHcgVeQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oqqjRHcgVeQ">Monitoring applications using Prometheus ServiceMonitor and PodMonitor | ADITYA JOSHI |</a><br/>Oct 28, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2epdFWbiE_c"><img width="140px" src="https://i.ytimg.com/vi/2epdFWbiE_c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2epdFWbiE_c">Extending Kubectl with plugin| Creating kubectl plugin using golang | ADITYA JOSHI |</a><br/>Oct 14, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QO7TRRPc1AY"><img width="140px" src="https://i.ytimg.com/vi/QO7TRRPc1AY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QO7TRRPc1AY">Extending Kubectl with plugin | Creating Kubectl plugin | ADITYA JOSHI |</a><br/>Oct 7, 2022</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=tEVGTGS_jQE">Kubernetes Client-Go | Deploying Custom Controller | Custom Controller | Infomers | ADITYA JOSHI |</a><br/>Sep 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-kaRDFvOfxQ"><img width="140px" src="https://i.ytimg.com/vi/-kaRDFvOfxQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-kaRDFvOfxQ">Setting up Grafana | Monitoring Kubernetes | ADITYA JOSHI</a><br/>Sep 16, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EaUWZJJ187E"><img width="140px" src="https://i.ytimg.com/vi/EaUWZJJ187E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EaUWZJJ187E">Setting up Prometheus | Monitoring Kubernetes | ADITYA JOSHI</a><br/>Sep 2, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

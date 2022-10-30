@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/adityajoshi12/kubernetes-development/pull/7) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+1. 🎉 Merged PR [#14](https://github.com/adityajoshi12/besu-quickstart/pull/14) in [adityajoshi12/besu-quickstart](https://github.com/adityajoshi12/besu-quickstart)
 <!--END_SECTION:activity-->
 
 

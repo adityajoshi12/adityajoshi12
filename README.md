@@ -135,7 +135,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/adityajoshi12/besu-quickstart/pull/14) in [adityajoshi12/besu-quickstart](https://github.com/adityajoshi12/besu-quickstart)
+1. 🗣 Commented on [#20](https://github.com/adityajoshi12/besu-quickstart/issues/20) in [adityajoshi12/besu-quickstart](https://github.com/adityajoshi12/besu-quickstart)
 <!--END_SECTION:activity-->
 
 

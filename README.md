@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other awesome creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
+- 👨‍💻 LFX Mentee [Deploy Carbon Accounting Network with Bevel](https://wiki.hyperledger.org/display/INTERN/Project+Plan+-+Deploy+Carbon+Accounting+Network+with+Bevel)
 
 ## Courses
 <br>

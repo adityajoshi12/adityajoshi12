@@ -136,7 +136,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/adityajoshi12/besu-quickstart/issues/20) in [adityajoshi12/besu-quickstart](https://github.com/adityajoshi12/besu-quickstart)
+1. ❗️ Closed issue [#2044](https://github.com/hyperledger/bevel/issues/2044) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--END_SECTION:activity-->
 
 

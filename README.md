@@ -136,7 +136,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2044](https://github.com/hyperledger/bevel/issues/2044) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+1. 💪 Opened PR [#649](https://github.com/hyperledger-labs/blockchain-carbon-accounting/pull/649) in [hyperledger-labs/blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting)
 <!--END_SECTION:activity-->
 
 

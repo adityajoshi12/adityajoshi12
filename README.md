@@ -23,7 +23,7 @@
 
 - <img src="https://img-c.udemycdn.com/course/240x135/3815532_1edc_2.jpg" width="100px"/> [Master Class On Hyperledger Besu](https://udemy.com/course/hyperledger-besu-master-class)
 
-- <img src="https://img-c.udemycdn.com/course/240x135/3814476_e3c7.jpg" width="100px"/> [Certified Blockchain Developer Certification - 2021](https://www.udemy.com/course/certified-blockchain-developer-certification)
+- <img src="https://img-c.udemycdn.com/course/240x135/3814476_e3c7.jpg" width="100px"/> [Certified Blockchain Developer Certification - 2022](https://www.udemy.com/course/certified-blockchain-developer-certification)
 
 
 
@@ -54,9 +54,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-  <a target="_blank" rel="noopener noreferrer" href="https://leetcode.com/adityaprakashjoshi1/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
-  </a>&nbsp;&nbsp;
+
 
 
 </p>

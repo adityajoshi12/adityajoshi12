@@ -134,7 +134,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/adityajoshi12/ag-grid-demo/pull/29) in [adityajoshi12/ag-grid-demo](https://github.com/adityajoshi12/ag-grid-demo)
+1. ❗️ Opened issue [#2078](https://github.com/hyperledger/bevel/issues/2078) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--END_SECTION:activity-->
 
 

@@ -134,7 +134,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/adityajoshi12/kubernetes-development/pull/8) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+1. ❌ Reopened PR [#2093](https://github.com/hyperledger/bevel/pull/2093) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--END_SECTION:activity-->
 
 

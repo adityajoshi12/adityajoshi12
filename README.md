@@ -134,7 +134,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#2093](https://github.com/hyperledger/bevel/pull/2093) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+1. 💪 Opened PR [#2109](https://github.com/hyperledger/bevel/pull/2109) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--END_SECTION:activity-->
 
 

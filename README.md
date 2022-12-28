@@ -134,7 +134,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2110](https://github.com/hyperledger/bevel/issues/2110) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+1. ❗️ Opened issue [#2111](https://github.com/hyperledger/bevel/issues/2111) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--END_SECTION:activity-->
 
 

@@ -1,7 +1,7 @@
 settings:
   username: "adityajoshi12"
   commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 5
+  max_lines: 10
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+05:30"

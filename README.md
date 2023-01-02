@@ -134,6 +134,11 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
+2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
+3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
+5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
 <!--RECENT_ACTIVITY:end-->
 
 

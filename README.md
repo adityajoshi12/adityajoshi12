@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=adityajoshi.online&style=for-the-badge&url=https%3A%2F%2Fadityajoshi.online)](https://adityajoshi.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityaajoshi12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityajoshi12)
 
-## I'm a Blockchain Engineer, Cloud Engineer and Architect!!
+## I'm a Blockchain Engineer, Cloud Engineer and Instructor@Udemy!!
 <br>
 
 - 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!
@@ -134,16 +134,11 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
-2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
-4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
-6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/adityajoshi12](https://github.com/adityajoshi12/adityajoshi12)
-7. ❗️ Opened issue [#2114](https://github.com/hyperledger/bevel/issues/2114) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-8. ❗️ Opened issue [#2111](https://github.com/hyperledger/bevel/issues/2111) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-9. ⬆️ Pushed 3 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
-10. 💬 Commented on [#2109](https://github.com/hyperledger/bevel/pull/2109#discussion_r1056942647) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+
+1. ❗️ Opened issue [#2114](https://github.com/hyperledger/bevel/issues/2114) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+2. ❗️ Opened issue [#2111](https://github.com/hyperledger/bevel/issues/2111) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+3. ⬆️ Pushed 3 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
+4. 💬 Commented on [#2109](https://github.com/hyperledger/bevel/pull/2109#discussion_r1056942647) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--RECENT_ACTIVITY:end-->
 
 

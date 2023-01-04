@@ -3,6 +3,10 @@ settings:
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 10
   url_text: "{REPO}{ID}"
+  disabled_events:
+    - "star"
+    - "fork"
+    - "create_repo"
   date:
     timezone: "GMT+05:30"
     text: "Last Updated: {DATE}"

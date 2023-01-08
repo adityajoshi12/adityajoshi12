@@ -94,11 +94,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Minio on Kubernetes](https://levelup.gitconnected.com/minio-on-kubernetes-71ce34da7a19?source=rss-63332736e4ac------2)
 - [Extending Kubectl with Plugins](https://levelup.gitconnected.com/extending-kubectl-with-plugins-a9bf2d065441?source=rss-63332736e4ac------2)
 - [Setting up Istio Service Mesh in Kubernetes Cluster](https://levelup.gitconnected.com/setting-up-istio-service-mesh-in-kubernetes-cluster-f1077b136411?source=rss-63332736e4ac------2)
 - [Hyperledger Fabric performance benchmarking using Hyperledger Caliper](https://medium.com/coinmonks/hyperledger-fabric-blockchain-performance-benchmark-using-hyperleger-capiler-66d9a9af5cce?source=rss-63332736e4ac------2)
 - [Supabase: Setting up Authentication](https://medium.com/coinmonks/supabase-setting-up-authentication-15021c6d08e1?source=rss-63332736e4ac------2)
-- [Hyperledger Fabric v2.X Monitoring Using Prometheus](https://medium.com/coinmonks/hyperledger-fabric-v2-x-monitoring-using-prometheus-974e433073f5?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

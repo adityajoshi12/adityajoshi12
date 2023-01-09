@@ -8,7 +8,7 @@
 
 - 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!
 - 🏆 I'm also Certified Kubernetes Adminstrator (CKA) and Application Developer (CKAD)!
-- 🥅 Working on Enterprise Blockchain Projects
+- 🥅 Working on Enterprise Blockchain
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other awesome creators
 - 🥅 2022 Goals: Contribute more to Open Source projects

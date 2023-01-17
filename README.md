@@ -114,7 +114,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6BlY8Zr8-Cc"><img width="140px" src="https://i.ytimg.com/vi/6BlY8Zr8-Cc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6BlY8Zr8-Cc">MINio on Kubernetes| Deploying MINio Object storage on kubernetes| ADITYA JOSHI |</a><br/>Jan 15, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=6BlY8Zr8-Cc">MINio on Kubernetes| Deploying MINio Object storage on kubernetes| ADITYA JOSHI |</a><br/>Jan 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oqqjRHcgVeQ"><img width="140px" src="https://i.ytimg.com/vi/oqqjRHcgVeQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oqqjRHcgVeQ">Monitoring applications using Prometheus ServiceMonitor and PodMonitor | ADITYA JOSHI |</a><br/>Oct 28, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2epdFWbiE_c"><img width="140px" src="https://i.ytimg.com/vi/2epdFWbiE_c/mqdefault.jpg"></a></td>

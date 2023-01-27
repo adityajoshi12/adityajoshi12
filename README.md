@@ -134,16 +134,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-2. 💬 Commented on [#338](https://github.com/hyperledger-labs/blockchain-explorer/pull/338#discussion_r1087618031) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-3. 💬 Commented on [#338](https://github.com/hyperledger-labs/blockchain-explorer/pull/338#discussion_r1087608352) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-4. 💬 Commented on [#338](https://github.com/hyperledger-labs/blockchain-explorer/pull/338#discussion_r1087609388) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-5. 💬 Commented on [#338](https://github.com/hyperledger-labs/blockchain-explorer/pull/338#discussion_r1087616033) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-6. 💬 Commented on [#338](https://github.com/hyperledger-labs/blockchain-explorer/pull/338#discussion_r1087611635) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-7. 💬 Commented on [#338](https://github.com/hyperledger-labs/blockchain-explorer/pull/338#discussion_r1087616308) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-8. 💬 Commented on [#337](https://github.com/hyperledger-labs/blockchain-explorer/pull/337#issuecomment-1403642411) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-9. 💬 Commented on [#337](https://github.com/hyperledger-labs/blockchain-explorer/pull/337#discussion_r1086503875) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-10. 💬 Commented on [#337](https://github.com/hyperledger-labs/blockchain-explorer/pull/337#discussion_r1086502887) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+1. 👍 Approved [#337](https://github.com/hyperledger-labs/blockchain-explorer/pull/337#pullrequestreview-1272579966) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+2. 💬 Commented on [#338](https://github.com/hyperledger-labs/blockchain-explorer/pull/338#discussion_r1088888817) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+3. 💬 Commented on [#338](https://github.com/hyperledger-labs/blockchain-explorer/pull/338#discussion_r1088884158) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+4. 💪 Opened PR [#339](https://github.com/hyperledger-labs/blockchain-explorer/pull/339) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
 <!--RECENT_ACTIVITY:end-->
 
 

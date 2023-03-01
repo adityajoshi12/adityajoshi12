@@ -133,16 +133,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#351](https://github.com/hyperledger-labs/blockchain-explorer/pull/351#pullrequestreview-1317552924) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-2. 💬 Commented on [#351](https://github.com/hyperledger-labs/blockchain-explorer/pull/351#discussion_r1118055719) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-3. 💬 Commented on [#351](https://github.com/hyperledger-labs/blockchain-explorer/pull/351#discussion_r1118055548) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-4. 💬 Commented on [#351](https://github.com/hyperledger-labs/blockchain-explorer/pull/351#discussion_r1118055301) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
-6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-8. 🎉 Merged PR [#6](https://github.com/adityajoshi12/fabric-samples-advance-topics/pull/6) in [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-9. 💪 Opened PR [#16](https://github.com/adityajoshi12/kubernetes-development/pull/16) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+1. 💪 Opened PR [#361](https://github.com/hyperledger-labs/blockchain-explorer/pull/361) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+2. ⬆️ Pushed 1 commit(s) to [anudhars/blockchain-explorer](https://github.com/anudhars/blockchain-explorer)
+3. 🎉 Merged PR [#1](https://github.com/anudhars/blockchain-explorer/pull/1) in [anudhars/blockchain-explorer](https://github.com/anudhars/blockchain-explorer)
+4. ❌ Closed PR [#358](https://github.com/hyperledger-labs/blockchain-explorer/pull/358) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+5. ⬆️ Pushed 0 commit(s) to [anudhars/blockchain-explorer](https://github.com/anudhars/blockchain-explorer)
+6. 💪 Opened PR [#1](https://github.com/anudhars/blockchain-explorer/pull/1) in [anudhars/blockchain-explorer](https://github.com/anudhars/blockchain-explorer)
+7. ⬆️ Pushed 1 commit(s) to [anudhars/blockchain-explorer](https://github.com/anudhars/blockchain-explorer)
+8. ⬆️ Pushed 1 commit(s) to [anudhars/blockchain-explorer](https://github.com/anudhars/blockchain-explorer)
+9. 👍 Approved [#351](https://github.com/hyperledger-labs/blockchain-explorer/pull/351#pullrequestreview-1317552924) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+10. 💬 Commented on [#351](https://github.com/hyperledger-labs/blockchain-explorer/pull/351#discussion_r1118055719) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
 <!--RECENT_ACTIVITY:end-->
 
 

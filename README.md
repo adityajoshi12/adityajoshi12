@@ -46,8 +46,9 @@
 
 
   
-  <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/8201020/aditya-joshi">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
+  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/joshiaditya12/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+
   </a>&nbsp;&nbsp;
 
   <a target="_blank" rel="noopener noreferrer" href="https://t.me/adityajoshi12">

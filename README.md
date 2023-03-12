@@ -122,16 +122,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
+1. 💪 Opened PR [#1001](https://github.com/hyperledger/fabric-samples/pull/1001) in [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)
 2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
 3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-4. 💪 Opened PR [#17](https://github.com/adityajoshi12/kubernetes-development/pull/17) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-7. ⬆️ Pushed 1 commit(s) to [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-8. 🎉 Merged PR [#363](https://github.com/hyperledger-labs/blockchain-explorer/pull/363) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-9. 👍 Approved [#363](https://github.com/hyperledger-labs/blockchain-explorer/pull/363#pullrequestreview-1325776221) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-10. 💬 Commented on [#929](https://github.com/hyperledger/fabric-samples/issues/929#issuecomment-1455107579) in [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
+5. 💪 Opened PR [#17](https://github.com/adityajoshi12/kubernetes-development/pull/17) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
+8. ⬆️ Pushed 1 commit(s) to [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+9. 🎉 Merged PR [#363](https://github.com/hyperledger-labs/blockchain-explorer/pull/363) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+10. 👍 Approved [#363](https://github.com/hyperledger-labs/blockchain-explorer/pull/363#pullrequestreview-1325776221) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
 <!--RECENT_ACTIVITY:end-->
 
 

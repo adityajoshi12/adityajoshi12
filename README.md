@@ -122,16 +122,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2153](https://github.com/hyperledger/bevel/pull/2153#issuecomment-1469568507) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-2. ⬆️ Pushed 70 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
-3. 💪 Opened PR [#1001](https://github.com/hyperledger/fabric-samples/pull/1001) in [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)
-4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-7. 💪 Opened PR [#17](https://github.com/adityajoshi12/kubernetes-development/pull/17) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
+2. 💪 Opened PR [#2185](https://github.com/hyperledger/bevel/pull/2185) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+3. ❗️ Opened issue [#2184](https://github.com/hyperledger/bevel/issues/2184) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+4. 💬 Commented on [#2153](https://github.com/hyperledger/bevel/pull/2153#issuecomment-1469568507) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+5. ⬆️ Pushed 70 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
+6. 💪 Opened PR [#1001](https://github.com/hyperledger/fabric-samples/pull/1001) in [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)
+7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
+8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
 9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-10. ⬆️ Pushed 1 commit(s) to [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+10. 💪 Opened PR [#17](https://github.com/adityajoshi12/kubernetes-development/pull/17) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 <!--RECENT_ACTIVITY:end-->
 
 

@@ -82,11 +82,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperledger Besu: Introduction](https://medium.com/coinmonks/hyperledger-besu-introduction-ce72260fb8ec?source=rss-63332736e4ac------2)
-- [Kubernetes 101: Statefulset](https://levelup.gitconnected.com/kubernetes-101-statefulset-42f1693c0867?source=rss-63332736e4ac------2)
-- [Kubernetes 101: Pods](https://levelup.gitconnected.com/kubernetes-101-pods-db61a17203ea?source=rss-63332736e4ac------2)
-- [Kubernetes 101: Understanding the Basics of Container Orchestration](https://levelup.gitconnected.com/kubernetes-101-understanding-the-basics-of-container-orchestration-898562f45651?source=rss-63332736e4ac------2)
-- [Minio on Kubernetes](https://levelup.gitconnected.com/minio-on-kubernetes-71ce34da7a19?source=rss-63332736e4ac------2)
+- [Kubernetes Operator: Automating Complex Operations](https://levelup.gitconnected.com/kubernetes-operator-automating-complex-operations-477ed7e5f567?source=rss-63332736e4ac------2)
+- [Kubernetes 101: Secrets](https://levelup.gitconnected.com/kubernetes-101-secrets-20d068ab0563?source=rss-63332736e4ac------2)
+- [Kubernetes 101: Deployments](https://levelup.gitconnected.com/kubernetes-101-deployments-a73be0eac1ca?source=rss-63332736e4ac------2)
+- [Kubernetes 101: ConfigMap](https://levelup.gitconnected.com/kubernetes-101-configmap-baebdb7a4068?source=rss-63332736e4ac------2)
+- [Kubernetes 101: Namespace](https://levelup.gitconnected.com/kubernetes-101-namespace-f9012490bfa1?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

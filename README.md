@@ -82,11 +82,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes 101: Jobs](https://levelup.gitconnected.com/kubernetes-101-jobs-b2bd9eeef833?source=rss-63332736e4ac------2)
 - [Kubernetes 101: Deployment vs Statefulset](https://levelup.gitconnected.com/kubernetes-101-deployment-vs-statefulset-509058c10593?source=rss-63332736e4ac------2)
 - [Kubernetes Operator: Automating Complex Operations](https://levelup.gitconnected.com/kubernetes-operator-automating-complex-operations-477ed7e5f567?source=rss-63332736e4ac------2)
 - [Kubernetes 101: Secrets](https://levelup.gitconnected.com/kubernetes-101-secrets-20d068ab0563?source=rss-63332736e4ac------2)
 - [Kubernetes 101: Deployments](https://levelup.gitconnected.com/kubernetes-101-deployments-a73be0eac1ca?source=rss-63332736e4ac------2)
-- [Kubernetes 101: ConfigMap](https://levelup.gitconnected.com/kubernetes-101-configmap-baebdb7a4068?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

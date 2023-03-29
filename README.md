@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=adityajoshi.online&style=for-the-badge&url=https%3A%2F%2Fadityajoshi.online)](https://adityajoshi.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityaajoshi12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityaajoshi12)
 
-## I'm a Blockchain Engineer, Cloud Engineer and Instructor@Udemy!!
+## I'm a Blockchain Engineer, Kubernetes Champ and Instructor@Udemy!!
 <br>
 
 - 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!

@@ -6,6 +6,7 @@
 ## I'm a Blockchain Engineer, Kubernetes Champ and Instructor@Udemy!!
 <br>
 
+- 👨‍💻 Developer Advocate @Hyperledger
 - 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!
 - 🏆 I'm also Certified Kubernetes Adminstrator (CKA) and Application Developer (CKAD)!
 - 🥅 Working on Enterprise Blockchain
@@ -13,6 +14,7 @@
 - 👯 I’m looking to collaborate with other awesome creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 👨‍💻 LFX Mentee [Deploy Carbon Accounting Network with Bevel](https://wiki.hyperledger.org/display/INTERN/Project+Plan+-+Deploy+Carbon+Accounting+Network+with+Bevel)
+- 🦸‍♂️ Maintainer of [bevel](https://github.com/hyperledger/bevel), [HLF-Operator](https://github.com/hyperledger/bevel-operator-fabric)
 
 ## Courses
 <br>

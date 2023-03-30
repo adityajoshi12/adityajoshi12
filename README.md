@@ -124,16 +124,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#366](https://github.com/hyperledger-labs/blockchain-explorer/pull/366#issuecomment-1482416377) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-2. 💬 Commented on [#2191](https://github.com/hyperledger/bevel/pull/2191#discussion_r1147152624) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
-4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hyperledger-fabric-on-kubernetes](https://github.com/adityajoshi12/hyperledger-fabric-on-kubernetes)
+1. 👍 Approved [#370](https://github.com/hyperledger-labs/blockchain-explorer/pull/370#pullrequestreview-1363481450) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+2. 💬 Commented on [#366](https://github.com/hyperledger-labs/blockchain-explorer/pull/366#issuecomment-1482416377) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+3. 💬 Commented on [#2191](https://github.com/hyperledger/bevel/pull/2191#discussion_r1147152624) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
 5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hyperledger-fabric-on-kubernetes](https://github.com/adityajoshi12/hyperledger-fabric-on-kubernetes)
 6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hyperledger-fabric-on-kubernetes](https://github.com/adityajoshi12/hyperledger-fabric-on-kubernetes)
 7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hyperledger-fabric-on-kubernetes](https://github.com/adityajoshi12/hyperledger-fabric-on-kubernetes)
 8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hyperledger-fabric-on-kubernetes](https://github.com/adityajoshi12/hyperledger-fabric-on-kubernetes)
-9. 💬 Commented on [#2185](https://github.com/hyperledger/bevel/pull/2185#discussion_r1139775604) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-10. 💬 Commented on [#2185](https://github.com/hyperledger/bevel/pull/2185#discussion_r1138814152) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hyperledger-fabric-on-kubernetes](https://github.com/adityajoshi12/hyperledger-fabric-on-kubernetes)
+10. 💬 Commented on [#2185](https://github.com/hyperledger/bevel/pull/2185#discussion_r1139775604) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--RECENT_ACTIVITY:end-->
 
 

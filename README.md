@@ -6,6 +6,7 @@
 ## I'm a Blockchain Engineer, Kubernetes Champ and Instructor@Udemy!!
 <br>
 
+- 👨‍💻 Software Engineer 3@Walmart
 - 👨‍💻 Developer Advocate @Hyperledger
 - 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!
 - 🏆 I'm also Certified Kubernetes Adminstrator (CKA) and Application Developer (CKAD)!

@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2204](https://github.com/hyperledger/bevel/pull/2204#pullrequestreview-1377454710) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-2. 👍 Approved [#380](https://github.com/hyperledger-labs/blockchain-explorer/pull/380#pullrequestreview-1377086509) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-3. 💬 Commented on [#2201](https://github.com/hyperledger/bevel/pull/2201#issuecomment-1501376793) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-4. 💪 Opened PR [#73](https://github.com/hyperledger-labs/hlf-connector/pull/73) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-5. 🤝 Became collaborator on [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
-6. 💪 Opened PR [#19](https://github.com/adityajoshi12/kubernetes-development/pull/19) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-8. ⬆️ Pushed 9 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
-9. 💬 Commented on [#2199](https://github.com/hyperledger/bevel/pull/2199#discussion_r1158459106) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-10. 👍 Approved [#2197](https://github.com/hyperledger/bevel/pull/2197#pullrequestreview-1372251797) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+1. 🎉 Merged PR [#73](https://github.com/hyperledger-labs/hlf-connector/pull/73) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+2. ⬆️ Pushed 1 commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+3. 💬 Commented on [#73](https://github.com/hyperledger-labs/hlf-connector/pull/73#discussion_r1163843041) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+4. 👍 Approved [#2204](https://github.com/hyperledger/bevel/pull/2204#pullrequestreview-1377454710) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+5. 👍 Approved [#380](https://github.com/hyperledger-labs/blockchain-explorer/pull/380#pullrequestreview-1377086509) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+6. 💬 Commented on [#2201](https://github.com/hyperledger/bevel/pull/2201#issuecomment-1501376793) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+7. 💪 Opened PR [#73](https://github.com/hyperledger-labs/hlf-connector/pull/73) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+8. 🤝 Became collaborator on [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
+9. 💪 Opened PR [#19](https://github.com/adityajoshi12/kubernetes-development/pull/19) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 <!--RECENT_ACTIVITY:end-->
 
 

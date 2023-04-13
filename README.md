@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#19](https://github.com/hyperledger-labs/governance/issues/19) in [hyperledger-labs/governance](https://github.com/hyperledger-labs/governance)
-2. 💪 Opened PR [#74](https://github.com/hyperledger-labs/hlf-connector/pull/74) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
-4. 🎉 Merged PR [#73](https://github.com/hyperledger-labs/hlf-connector/pull/73) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-5. ⬆️ Pushed 1 commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-6. 💬 Commented on [#73](https://github.com/hyperledger-labs/hlf-connector/pull/73#discussion_r1163843041) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-7. 👍 Approved [#2204](https://github.com/hyperledger/bevel/pull/2204#pullrequestreview-1377454710) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-8. 👍 Approved [#380](https://github.com/hyperledger-labs/blockchain-explorer/pull/380#pullrequestreview-1377086509) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-9. 💬 Commented on [#2201](https://github.com/hyperledger/bevel/pull/2201#issuecomment-1501376793) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-10. 💪 Opened PR [#73](https://github.com/hyperledger-labs/hlf-connector/pull/73) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+1. 💬 Commented on [#1001](https://github.com/hyperledger/fabric-samples/pull/1001#issuecomment-1506245590) in [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)
+2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples](https://github.com/adityajoshi12/fabric-samples)
+3. ❗️ Opened issue [#19](https://github.com/hyperledger-labs/governance/issues/19) in [hyperledger-labs/governance](https://github.com/hyperledger-labs/governance)
+4. 💪 Opened PR [#74](https://github.com/hyperledger-labs/hlf-connector/pull/74) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
+6. 🎉 Merged PR [#73](https://github.com/hyperledger-labs/hlf-connector/pull/73) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+7. ⬆️ Pushed 1 commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+8. 💬 Commented on [#73](https://github.com/hyperledger-labs/hlf-connector/pull/73#discussion_r1163843041) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+9. 👍 Approved [#2204](https://github.com/hyperledger/bevel/pull/2204#pullrequestreview-1377454710) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+10. 👍 Approved [#380](https://github.com/hyperledger-labs/blockchain-explorer/pull/380#pullrequestreview-1377086509) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
 <!--RECENT_ACTIVITY:end-->
 
 

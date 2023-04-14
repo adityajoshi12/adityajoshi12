@@ -104,7 +104,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xsSW08_o74s"><img width="140px" src="https://i.ytimg.com/vi/xsSW08_o74s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QSZMN-UgSbo"><img width="140px" src="https://i.ytimg.com/vi/QSZMN-UgSbo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QSZMN-UgSbo">Setting up Private IPFS Node | IPFS | ADITYA JOSHI |</a><br/>Apr 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xsSW08_o74s"><img width="140px" src="https://i.ytimg.com/vi/xsSW08_o74s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xsSW08_o74s">Pluggable Certificate Authority Hyperledger Fabric | Using Cloudflare SSL for HLF | ADITYA JOSHI |</a><br/>Mar 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FHjLL5e7h00"><img width="140px" src="https://i.ytimg.com/vi/FHjLL5e7h00/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FHjLL5e7h00">Kubernetes Operator | Creating Kubernetes Operator using operator-sdk | kubebuilder | ADITYA JOSHI |</a><br/>Feb 7, 2023</td></tr></table>
@@ -112,8 +114,6 @@
 <td><a href="https://www.youtube.com/watch?v=6BlY8Zr8-Cc">MINio on Kubernetes| Deploying MINio Object storage on kubernetes| ADITYA JOSHI |</a><br/>Jan 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oqqjRHcgVeQ"><img width="140px" src="https://i.ytimg.com/vi/oqqjRHcgVeQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oqqjRHcgVeQ">Monitoring applications using Prometheus ServiceMonitor and PodMonitor | ADITYA JOSHI |</a><br/>Oct 28, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2epdFWbiE_c"><img width="140px" src="https://i.ytimg.com/vi/2epdFWbiE_c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2epdFWbiE_c">Extending Kubectl with plugin| Creating kubectl plugin using golang | ADITYA JOSHI |</a><br/>Oct 14, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

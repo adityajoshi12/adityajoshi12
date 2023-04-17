@@ -85,11 +85,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Decentralized File Storage: An Introduction to IPFS](https://levelup.gitconnected.com/the-future-of-decentralized-file-storage-an-introduction-to-ipfs-3a37b03edfa?source=rss-63332736e4ac------2)
 - [Kubernetes 101: Jobs vs CronJobs](https://levelup.gitconnected.com/kubernetes-101-jobs-vs-cronjobs-50d56e4ba955?source=rss-63332736e4ac------2)
 - [Kubernetes 101: CronJobs](https://levelup.gitconnected.com/kubernetes-101-cronjobs-91f47084ab32?source=rss-63332736e4ac------2)
 - [How I passed CKS in 2 Weeks](https://levelup.gitconnected.com/how-i-passed-cks-in-2-weeks-d2c35541e33d?source=rss-63332736e4ac------2)
 - [Kubernetes 101: Daemonsets](https://levelup.gitconnected.com/kubernetes-101-daemonsets-acab9650d707?source=rss-63332736e4ac------2)
-- [Kubernetes 101: Jobs](https://levelup.gitconnected.com/kubernetes-101-jobs-b2bd9eeef833?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

@@ -85,11 +85,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes with CoreDNS](https://levelup.gitconnected.com/kubernetes-with-coredns-e40772c5e6ee?source=rss-63332736e4ac------2)
 - [Kubernetes 101: Persistent Volume Claims](https://levelup.gitconnected.com/kubernetes-101-persistent-volume-claims-e5e848791c61?source=rss-63332736e4ac------2)
 - [The Future of Decentralized File Storage: An Introduction to IPFS](https://levelup.gitconnected.com/the-future-of-decentralized-file-storage-an-introduction-to-ipfs-3a37b03edfa?source=rss-63332736e4ac------2)
 - [Kubernetes 101: Jobs vs CronJobs](https://levelup.gitconnected.com/kubernetes-101-jobs-vs-cronjobs-50d56e4ba955?source=rss-63332736e4ac------2)
 - [Kubernetes 101: CronJobs](https://levelup.gitconnected.com/kubernetes-101-cronjobs-91f47084ab32?source=rss-63332736e4ac------2)
-- [How I passed CKS in 2 Weeks](https://levelup.gitconnected.com/how-i-passed-cks-in-2-weeks-d2c35541e33d?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

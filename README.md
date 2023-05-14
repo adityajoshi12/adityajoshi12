@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#348](https://github.com/hyperledger-labs/blockchain-explorer/issues/348#issuecomment-1545060688) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-2. 💬 Commented on [#2229](https://github.com/hyperledger/bevel/issues/2229#issuecomment-1543899439) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-3. 💬 Commented on [#17](https://github.com/arsulegai/eth-connector/pull/17#discussion_r1187107512) in [arsulegai/eth-connector](https://github.com/arsulegai/eth-connector)
-4. ⬆️ Pushed 6 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-5. ⬆️ Pushed 2 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-6. 🎉 Merged PR [#20](https://github.com/adityajoshi12/kubernetes-development/pull/20) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-7. ⬆️ Pushed 2 commit(s) to [adityajoshi12/first-network-with-raft](https://github.com/adityajoshi12/first-network-with-raft)
-8. 🎉 Merged PR [#48](https://github.com/adityajoshi12/first-network-with-raft/pull/48) in [adityajoshi12/first-network-with-raft](https://github.com/adityajoshi12/first-network-with-raft)
-9. ⬆️ Pushed 2 commit(s) to [adityajoshi12/first-network-with-raft](https://github.com/adityajoshi12/first-network-with-raft)
-10. 🎉 Merged PR [#52](https://github.com/adityajoshi12/first-network-with-raft/pull/52) in [adityajoshi12/first-network-with-raft](https://github.com/adityajoshi12/first-network-with-raft)
+1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/deployment-operator](https://github.com/adityajoshi12/deployment-operator)
+2. 💬 Commented on [#348](https://github.com/hyperledger-labs/blockchain-explorer/issues/348#issuecomment-1545060688) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+3. 💬 Commented on [#2229](https://github.com/hyperledger/bevel/issues/2229#issuecomment-1543899439) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+4. 💬 Commented on [#17](https://github.com/arsulegai/eth-connector/pull/17#discussion_r1187107512) in [arsulegai/eth-connector](https://github.com/arsulegai/eth-connector)
+5. ⬆️ Pushed 6 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+6. ⬆️ Pushed 2 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+7. 🎉 Merged PR [#20](https://github.com/adityajoshi12/kubernetes-development/pull/20) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+8. ⬆️ Pushed 2 commit(s) to [adityajoshi12/first-network-with-raft](https://github.com/adityajoshi12/first-network-with-raft)
+9. 🎉 Merged PR [#48](https://github.com/adityajoshi12/first-network-with-raft/pull/48) in [adityajoshi12/first-network-with-raft](https://github.com/adityajoshi12/first-network-with-raft)
+10. ⬆️ Pushed 2 commit(s) to [adityajoshi12/first-network-with-raft](https://github.com/adityajoshi12/first-network-with-raft)
 <!--RECENT_ACTIVITY:end-->
 
 

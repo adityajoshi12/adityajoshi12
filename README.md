@@ -104,7 +104,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_o4jswSwTIU"><img width="140px" src="https://i.ytimg.com/vi/_o4jswSwTIU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fnGNxcxfEz8"><img width="140px" src="https://i.ytimg.com/vi/fnGNxcxfEz8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fnGNxcxfEz8">Send K8s logs to S3 using FluentBit | Distributed logging | Observability | ADITYA JOSHI</a><br/>May 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_o4jswSwTIU"><img width="140px" src="https://i.ytimg.com/vi/_o4jswSwTIU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_o4jswSwTIU">Benchmarking Hyperledger Besu network using Hyperledger Caliper | ADITYA JOSHI |</a><br/>May 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yLz6ZU-CXmU"><img width="140px" src="https://i.ytimg.com/vi/yLz6ZU-CXmU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yLz6ZU-CXmU">Setting up private IPFS Cluster | ADITYA JOSHI |</a><br/>Apr 28, 2023</td></tr></table>
@@ -112,8 +114,6 @@
 <td><a href="https://www.youtube.com/watch?v=QSZMN-UgSbo">Setting up Private IPFS Node | IPFS | ADITYA JOSHI |</a><br/>Apr 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xsSW08_o74s"><img width="140px" src="https://i.ytimg.com/vi/xsSW08_o74s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xsSW08_o74s">Pluggable Certificate Authority Hyperledger Fabric | Using Cloudflare SSL for HLF | ADITYA JOSHI |</a><br/>Mar 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FHjLL5e7h00"><img width="140px" src="https://i.ytimg.com/vi/FHjLL5e7h00/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FHjLL5e7h00">Kubernetes Operator | Creating Kubernetes Operator using operator-sdk | kubebuilder | ADITYA JOSHI |</a><br/>Feb 7, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

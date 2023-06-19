@@ -85,11 +85,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Kubernetes Ingress: A Gateway to Efficient Service Routing](https://levelup.gitconnected.com/demystifying-kubernetes-ingress-a-gateway-to-efficient-service-routing-65ec55e02a9c?source=rss-63332736e4ac------2)
 - [Mastering Resource Allocation with Kubernetes PriorityClass](https://levelup.gitconnected.com/mastering-resource-allocation-with-kubernetes-priorityclass-594e47cc9d19?source=rss-63332736e4ac------2)
 - [Auditing in Kubernetes: Security and Compliance for Yes, Even You!](https://levelup.gitconnected.com/auditing-in-kubernetes-security-and-compliance-for-yes-even-you-1c064d5102d3?source=rss-63332736e4ac------2)
 - [Demistify Hyperledger Fabric Components](https://medium.com/coinmonks/demistify-hyperledger-fabric-components-87f13325f5d?source=rss-63332736e4ac------2)
 - [Unleashing the Power of Kubernetes: Understanding its Key Components](https://levelup.gitconnected.com/unleashing-the-power-of-kubernetes-understanding-its-key-components-94ae4766e092?source=rss-63332736e4ac------2)
-- [Optimizing Kubernetes Resource Utilization with Horizontal Pod Autoscaler](https://levelup.gitconnected.com/optimizing-kubernetes-resource-utilization-with-horizontal-pod-autoscaler-d0198a83a144?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

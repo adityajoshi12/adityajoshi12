@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hyperledger-fabric-on-kubernetes](https://github.com/adityajoshi12/hyperledger-fabric-on-kubernetes)
-2. 💪 Opened PR [#175](https://github.com/hyperledger/bevel-operator-fabric/pull/175) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-3. ❗️ Opened issue [#174](https://github.com/hyperledger/bevel-operator-fabric/issues/174) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-4. 💬 Commented on [#171](https://github.com/hyperledger/bevel-operator-fabric/issues/171#issuecomment-1591641854) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-6. 💪 Opened PR [#172](https://github.com/hyperledger/bevel-operator-fabric/pull/172) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-7. 💬 Commented on [#171](https://github.com/hyperledger/bevel-operator-fabric/issues/171#issuecomment-1586769361) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-8. 💬 Commented on [#152](https://github.com/hyperledger/bevel-operator-fabric/issues/152#issuecomment-1586622824) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-9. 💬 Commented on [#168](https://github.com/hyperledger/bevel-operator-fabric/issues/168#issuecomment-1586621272) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-10. ❗️ Opened issue [#171](https://github.com/hyperledger/bevel-operator-fabric/issues/171) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+1. 👍 Approved [#2302](https://github.com/hyperledger/bevel/pull/2302#pullrequestreview-1487904975) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hyperledger-fabric-on-kubernetes](https://github.com/adityajoshi12/hyperledger-fabric-on-kubernetes)
+3. 💪 Opened PR [#175](https://github.com/hyperledger/bevel-operator-fabric/pull/175) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+4. ❗️ Opened issue [#174](https://github.com/hyperledger/bevel-operator-fabric/issues/174) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+5. 💬 Commented on [#171](https://github.com/hyperledger/bevel-operator-fabric/issues/171#issuecomment-1591641854) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+7. 💪 Opened PR [#172](https://github.com/hyperledger/bevel-operator-fabric/pull/172) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+8. 💬 Commented on [#171](https://github.com/hyperledger/bevel-operator-fabric/issues/171#issuecomment-1586769361) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+9. 💬 Commented on [#152](https://github.com/hyperledger/bevel-operator-fabric/issues/152#issuecomment-1586622824) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+10. 💬 Commented on [#168](https://github.com/hyperledger/bevel-operator-fabric/issues/168#issuecomment-1586621272) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
 <!--RECENT_ACTIVITY:end-->
 
 

@@ -85,11 +85,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Builder Pattern in GoLang: Building Complex Objects with Simplicity and Flexibility](https://levelup.gitconnected.com/the-builder-pattern-in-golang-building-complex-objects-with-simplicity-and-flexibility-dceb5e21543?source=rss-63332736e4ac------2)
+- [Interfaces and Composition in GoLang: The Power of Abstraction and Flexibility](https://levelup.gitconnected.com/interfaces-and-composition-in-golang-the-power-of-abstraction-and-flexibility-93da2185b797?source=rss-63332736e4ac------2)
+- [The Factory Pattern in GoLang: Creating Objects with Flexibility and Abstraction](https://levelup.gitconnected.com/the-factory-pattern-in-golang-creating-objects-with-flexibility-and-abstraction-fc9d4c51c2e0?source=rss-63332736e4ac------2)
 - [Demystifying Kubernetes Ingress: A Gateway to Efficient Service Routing](https://levelup.gitconnected.com/demystifying-kubernetes-ingress-a-gateway-to-efficient-service-routing-65ec55e02a9c?source=rss-63332736e4ac------2)
 - [Mastering Resource Allocation with Kubernetes PriorityClass](https://levelup.gitconnected.com/mastering-resource-allocation-with-kubernetes-priorityclass-594e47cc9d19?source=rss-63332736e4ac------2)
-- [Auditing in Kubernetes: Security and Compliance for Yes, Even You!](https://levelup.gitconnected.com/auditing-in-kubernetes-security-and-compliance-for-yes-even-you-1c064d5102d3?source=rss-63332736e4ac------2)
-- [Demistify Hyperledger Fabric Components](https://medium.com/coinmonks/demistify-hyperledger-fabric-components-87f13325f5d?source=rss-63332736e4ac------2)
-- [Unleashing the Power of Kubernetes: Understanding its Key Components](https://levelup.gitconnected.com/unleashing-the-power-of-kubernetes-understanding-its-key-components-94ae4766e092?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

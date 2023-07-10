@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate with other awesome creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 👨‍💻 LFX Mentee [Deploy Carbon Accounting Network with Bevel](https://wiki.hyperledger.org/display/INTERN/Project+Plan+-+Deploy+Carbon+Accounting+Network+with+Bevel)
-- 🦸‍♂️ Maintainer of [bevel](https://github.com/hyperledger/bevel), [HLF-Operator](https://github.com/hyperledger/bevel-operator-fabric)
+- 🦸‍♂️ Maintainer of [bevel](https://github.com/hyperledger/bevel), [HLF-Operator](https://github.com/hyperledger/bevel-operator-fabric), [blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
 
 ## Courses
 <br>

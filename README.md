@@ -85,11 +85,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes 101: Pod Disruption Budget](https://levelup.gitconnected.com/kubernetes-101-pod-disruption-budget-2a49e50f5966?source=rss-63332736e4ac------2)
 - [Cryptography Basics](https://adityaajoshi.medium.com/cryptography-basics-b954722f143c?source=rss-63332736e4ac------2)
 - [Golang Anonymous Field: Simplifying Struct Embedding](https://levelup.gitconnected.com/golang-anonymous-field-simplifying-struct-embedding-b1e232297137?source=rss-63332736e4ac------2)
 - [Efficient Communication and Synchronization in Go](https://levelup.gitconnected.com/mastering-channels-in-go-efficient-communication-and-synchronization-79477c212ebf?source=rss-63332736e4ac------2)
 - [Exploring Go Routines in Go: Concurrency Made Simple](https://levelup.gitconnected.com/exploring-go-routines-in-go-concurrency-made-simple-40424b979cba?source=rss-63332736e4ac------2)
-- [Kubernetes 101: Resource Quota](https://levelup.gitconnected.com/kubernetes-101-resource-quota-e03c1f904f54?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

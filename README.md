@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1300959744) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-2. 💬 Commented on [#339](https://github.com/hyperledger-labs/blockchain-explorer/pull/339#discussion_r1300947693) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-3. 👍 Approved [#100](https://github.com/hyperledger-labs/hlf-connector/pull/100#pullrequestreview-1588258747) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-4. 👍 Approved [#430](https://github.com/hyperledger-labs/blockchain-explorer/pull/430#pullrequestreview-1582911189) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-5. 💬 Commented on [#430](https://github.com/hyperledger-labs/blockchain-explorer/pull/430#discussion_r1297401693) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+1. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1304110842) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+2. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1303812235) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+3. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1300959744) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+4. 💬 Commented on [#339](https://github.com/hyperledger-labs/blockchain-explorer/pull/339#discussion_r1300947693) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+5. 👍 Approved [#100](https://github.com/hyperledger-labs/hlf-connector/pull/100#pullrequestreview-1588258747) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 6. 👍 Approved [#430](https://github.com/hyperledger-labs/blockchain-explorer/pull/430#pullrequestreview-1582911189) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-7. ⬆️ Pushed 3 commit(s) to [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-8. ✔️ Closed issue [#171](https://github.com/hyperledger/bevel-operator-fabric/issues/171) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-9. 🎉 Merged PR [#179](https://github.com/hyperledger/bevel-operator-fabric/pull/179) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-10. 💬 Commented on [#2316](https://github.com/hyperledger/bevel/issues/2316#issuecomment-1643855045) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+7. 💬 Commented on [#430](https://github.com/hyperledger-labs/blockchain-explorer/pull/430#discussion_r1297401693) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+8. 👍 Approved [#430](https://github.com/hyperledger-labs/blockchain-explorer/pull/430#pullrequestreview-1582911189) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+9. ⬆️ Pushed 3 commit(s) to [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+10. ✔️ Closed issue [#171](https://github.com/hyperledger/bevel-operator-fabric/issues/171) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
 <!--RECENT_ACTIVITY:end-->
 
 

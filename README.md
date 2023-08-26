@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1304110842) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-2. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1303812235) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-3. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1300959744) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-4. 💬 Commented on [#339](https://github.com/hyperledger-labs/blockchain-explorer/pull/339#discussion_r1300947693) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-5. 👍 Approved [#100](https://github.com/hyperledger-labs/hlf-connector/pull/100#pullrequestreview-1588258747) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-6. 👍 Approved [#430](https://github.com/hyperledger-labs/blockchain-explorer/pull/430#pullrequestreview-1582911189) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-7. 💬 Commented on [#430](https://github.com/hyperledger-labs/blockchain-explorer/pull/430#discussion_r1297401693) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-8. 👍 Approved [#430](https://github.com/hyperledger-labs/blockchain-explorer/pull/430#pullrequestreview-1582911189) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-9. ⬆️ Pushed 3 commit(s) to [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-10. ✔️ Closed issue [#171](https://github.com/hyperledger/bevel-operator-fabric/issues/171) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+1. ✔️ Closed issue [#89](https://github.com/hyperledger/bevel-operator-fabric/issues/89) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+2. ✔️ Closed issue [#152](https://github.com/hyperledger/bevel-operator-fabric/issues/152) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+3. ✔️ Closed issue [#160](https://github.com/hyperledger/bevel-operator-fabric/issues/160) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+4. 💬 Commented on [#186](https://github.com/hyperledger/bevel-operator-fabric/issues/186#issuecomment-1694181623) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+5. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1304110842) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+6. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1303812235) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+7. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1300959744) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+8. 💬 Commented on [#339](https://github.com/hyperledger-labs/blockchain-explorer/pull/339#discussion_r1300947693) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+9. 👍 Approved [#100](https://github.com/hyperledger-labs/hlf-connector/pull/100#pullrequestreview-1588258747) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+10. 👍 Approved [#430](https://github.com/hyperledger-labs/blockchain-explorer/pull/430#pullrequestreview-1582911189) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
 <!--RECENT_ACTIVITY:end-->
 
 

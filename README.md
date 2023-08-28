@@ -85,11 +85,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Renew Expired Certificates in Hyperledger Fabric](https://medium.com/coinmonks/renew-expired-certificates-in-hyperledger-fabric-b904fba56de9?source=rss-63332736e4ac------2)
 - [Understanding Go’s ldflags for Compilation](https://levelup.gitconnected.com/understanding-gos-ldflags-for-compilation-c2d128a61c80?source=rss-63332736e4ac------2)
 - [etcd in Kubernetes: Distributed Configuration Management](https://levelup.gitconnected.com/etcd-in-kubernetes-distributed-configuration-management-882da2f6a50a?source=rss-63332736e4ac------2)
 - [Kubernetes 101: Pod Disruption Budget](https://levelup.gitconnected.com/kubernetes-101-pod-disruption-budget-2a49e50f5966?source=rss-63332736e4ac------2)
 - [Cryptography Basics](https://adityaajoshi.medium.com/cryptography-basics-b954722f143c?source=rss-63332736e4ac------2)
-- [Golang Anonymous Field: Simplifying Struct Embedding](https://levelup.gitconnected.com/golang-anonymous-field-simplifying-struct-embedding-b1e232297137?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

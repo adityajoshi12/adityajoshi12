@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.0) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+1. ✌️ Released [](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.1) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
 2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
-3. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.0) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+3. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.1) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
 4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
-5. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1308472645) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-6. ✔️ Closed issue [#89](https://github.com/hyperledger/bevel-operator-fabric/issues/89) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-7. ✔️ Closed issue [#152](https://github.com/hyperledger/bevel-operator-fabric/issues/152) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-8. ✔️ Closed issue [#160](https://github.com/hyperledger/bevel-operator-fabric/issues/160) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-9. 💬 Commented on [#186](https://github.com/hyperledger/bevel-operator-fabric/issues/186#issuecomment-1694181623) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-10. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1304110842) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+5. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.0) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+7. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.0) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+9. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1308472645) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+10. ✔️ Closed issue [#89](https://github.com/hyperledger/bevel-operator-fabric/issues/89) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
 <!--RECENT_ACTIVITY:end-->
 
 

@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#438](https://github.com/hyperledger-labs/blockchain-explorer/pull/438#issuecomment-1701291644) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
-2. ✌️ Released [](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.1) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
-4. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.1) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
-6. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.0) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
-8. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.0) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
-9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
-10. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#discussion_r1308472645) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+1. 💬 Commented on [#382](https://github.com/hyperledger-labs/blockchain-explorer/pull/382#issuecomment-1702220253) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+2. 💬 Commented on [#438](https://github.com/hyperledger-labs/blockchain-explorer/pull/438#issuecomment-1701291644) in [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+3. ✌️ Released [](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.1) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+5. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.1) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+7. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.0) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+9. ✌️ Released [test](https://github.com/adityajoshi12/blockchain-explorer/releases/tag/v2.0.0) in [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
+10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/blockchain-explorer](https://github.com/adityajoshi12/blockchain-explorer)
 <!--RECENT_ACTIVITY:end-->
 
 

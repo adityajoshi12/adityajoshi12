@@ -85,11 +85,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Kubernetes Headless Services](https://levelup.gitconnected.com/exploring-kubernetes-headless-services-cd8287ac3b79?source=rss-63332736e4ac------2)
 - [HTTP/1 vs. HTTP/2: Protocols of Web](https://levelup.gitconnected.com/http-1-vs-http-2-protocols-of-web-405a5e03edbf?source=rss-63332736e4ac------2)
 - [RAFT Algorithm: Consensus in Distributed Systems](https://levelup.gitconnected.com/raft-algorithm-consensus-in-distributed-systems-f434eb4d6a18?source=rss-63332736e4ac------2)
 - [Implementing Cache in Golang](https://levelup.gitconnected.com/implementing-cache-in-golang-a8a7e631ca85?source=rss-63332736e4ac------2)
 - [Getting Started with Open Source](https://levelup.gitconnected.com/getting-started-with-open-source-3468fee07ce0?source=rss-63332736e4ac------2)
-- [Renew Expired Certificates in Hyperledger Fabric](https://medium.com/coinmonks/renew-expired-certificates-in-hyperledger-fabric-b904fba56de9?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

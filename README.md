@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#188](https://github.com/hyperledger/bevel-operator-fabric/issues/188#issuecomment-1744311531) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
-4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
-6. 💪 Opened PR [#190](https://github.com/hyperledger/bevel-operator-fabric/pull/190) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-8. ⬆️ Pushed 4 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-9. 💬 Commented on [#1001](https://github.com/hyperledger/fabric-samples/pull/1001#issuecomment-1728839148) in [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)
-10. ⬆️ Pushed 51 commit(s) to [adityajoshi12/fabric-samples](https://github.com/adityajoshi12/fabric-samples)
+1. ✌️ Released [](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.5) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+3. ✌️ Released [](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.4) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+5. ✌️ Released [](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.3) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+6. 💬 Commented on [#188](https://github.com/hyperledger/bevel-operator-fabric/issues/188#issuecomment-1744311531) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
+8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
+9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
+10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
 <!--RECENT_ACTIVITY:end-->
 
 

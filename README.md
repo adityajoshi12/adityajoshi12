@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#195](https://github.com/hyperledger/bevel-operator-fabric/pull/195#issuecomment-1774912124) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-2. 💪 Opened PR [#196](https://github.com/hyperledger/bevel-operator-fabric/pull/196) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-4. ⬆️ Pushed 2 commit(s) to [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-5. 🎉 Merged PR [#190](https://github.com/hyperledger/bevel-operator-fabric/pull/190) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-6. 💬 Commented on [#195](https://github.com/hyperledger/bevel-operator-fabric/pull/195#issuecomment-1763727965) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-9. ✌️ Released [](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.3) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+1. ⬆️ Pushed 2 commit(s) to [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+2. 🎉 Merged PR [#196](https://github.com/hyperledger/bevel-operator-fabric/pull/196) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+3. 💬 Commented on [#195](https://github.com/hyperledger/bevel-operator-fabric/pull/195#issuecomment-1774912124) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+4. 💪 Opened PR [#196](https://github.com/hyperledger/bevel-operator-fabric/pull/196) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+6. ⬆️ Pushed 2 commit(s) to [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+7. 🎉 Merged PR [#190](https://github.com/hyperledger/bevel-operator-fabric/pull/190) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+8. 💬 Commented on [#195](https://github.com/hyperledger/bevel-operator-fabric/pull/195#issuecomment-1763727965) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
 <!--RECENT_ACTIVITY:end-->
 
 

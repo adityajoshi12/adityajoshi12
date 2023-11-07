@@ -104,7 +104,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EZpw84q3h8Q"><img width="140px" src="https://i.ytimg.com/vi/EZpw84q3h8Q/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mIJHwRN0xc4"><img width="140px" src="https://i.ytimg.com/vi/mIJHwRN0xc4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mIJHwRN0xc4">Overview of Vault | Hashicorp Vault | ADITYA JOSHI |</a><br/>Nov 7, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EZpw84q3h8Q"><img width="140px" src="https://i.ytimg.com/vi/EZpw84q3h8Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EZpw84q3h8Q">Building Enterprises Ready Production Grade Hyperledger Fabric Network | ADITYA JOSHI |</a><br/>Oct 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nQHHsMu4U64"><img width="140px" src="https://i.ytimg.com/vi/nQHHsMu4U64/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nQHHsMu4U64">Renewing Expired Hyperledger Fabric Certificates: A Step-by-Step Guide | ADITYA JOSHI |</a><br/>Aug 22, 2023</td></tr></table>
@@ -112,8 +114,6 @@
 <td><a href="https://www.youtube.com/watch?v=UyRPI_OUBSM">Running IPFS Cluster on Kubernetes | Private IPFS Cluster | ADITYA JOSHI |</a><br/>Jun 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fnGNxcxfEz8"><img width="140px" src="https://i.ytimg.com/vi/fnGNxcxfEz8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fnGNxcxfEz8">Send K8s logs to S3 using FluentBit | Distributed logging | Observability | ADITYA JOSHI</a><br/>May 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_o4jswSwTIU"><img width="140px" src="https://i.ytimg.com/vi/_o4jswSwTIU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_o4jswSwTIU">Benchmarking Hyperledger Besu network using Hyperledger Caliper | ADITYA JOSHI |</a><br/>May 4, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

@@ -104,16 +104,16 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UBt7snZ6zGU"><img width="140px" src="https://i.ytimg.com/vi/UBt7snZ6zGU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UBt7snZ6zGU">Baiscs fo Vault | Hashicorp Vault | ADITYA JOSHI |</a><br/>Nov 14, 2023</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FY9l_Rey7h8"><img width="140px" src="https://i.ytimg.com/vi/FY9l_Rey7h8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FY9l_Rey7h8">Building Vault Client - NodeJS | Hands On Vault | ADITYA JOSHI |</a><br/>Nov 21, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UBt7snZ6zGU"><img width="140px" src="https://i.ytimg.com/vi/UBt7snZ6zGU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UBt7snZ6zGU">Baiscs of Vault | Hashicorp Vault | Hands-on | ADITYA JOSHI</a><br/>Nov 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mIJHwRN0xc4"><img width="140px" src="https://i.ytimg.com/vi/mIJHwRN0xc4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mIJHwRN0xc4">Overview of Vault | Hashicorp Vault | ADITYA JOSHI |</a><br/>Nov 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EZpw84q3h8Q"><img width="140px" src="https://i.ytimg.com/vi/EZpw84q3h8Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EZpw84q3h8Q">Building Enterprises Ready Production Grade Hyperledger Fabric Network | ADITYA JOSHI |</a><br/>Oct 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nQHHsMu4U64"><img width="140px" src="https://i.ytimg.com/vi/nQHHsMu4U64/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nQHHsMu4U64">Renewing Expired Hyperledger Fabric Certificates: A Step-by-Step Guide | ADITYA JOSHI |</a><br/>Aug 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UyRPI_OUBSM"><img width="140px" src="https://i.ytimg.com/vi/UyRPI_OUBSM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UyRPI_OUBSM">Running IPFS Cluster on Kubernetes | Private IPFS Cluster | ADITYA JOSHI |</a><br/>Jun 23, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

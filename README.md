@@ -85,11 +85,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Go Mutex](https://levelup.gitconnected.com/introduction-to-go-mutex-ac0a06a6a5e3?source=rss-63332736e4ac------2)
 - [Power of Kubernetes Sidecars](https://adityaajoshi.medium.com/power-of-kubernetes-sidecars-c1f82d17446e?source=rss-63332736e4ac------2)
 - [JavaScript Tricks Every Developer Should Know](https://levelup.gitconnected.com/javascript-tricks-every-developer-should-know-cedf71f7125b?source=rss-63332736e4ac------2)
 - [Volume Snapshots in Kubernetes](https://medium.com/cloud-native-daily/volume-snapshots-in-kubernetes-537f22ecab59?source=rss-63332736e4ac------2)
 - [Implementing a Queue in Go](https://levelup.gitconnected.com/implementing-a-queue-in-go-6f402cc844ea?source=rss-63332736e4ac------2)
-- [Exploring Kubernetes Headless Services](https://levelup.gitconnected.com/exploring-kubernetes-headless-services-cd8287ac3b79?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

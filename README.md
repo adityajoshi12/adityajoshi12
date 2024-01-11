@@ -85,11 +85,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Handle High Cardinality Metrics](https://levelup.gitconnected.com/how-to-handle-high-cardinality-metrics-c3840d825b45?source=rss-63332736e4ac------2)
 - [Harbor vs Docker Distribution vs Quay](https://levelup.gitconnected.com/harbor-vs-docker-distribution-vs-quay-8e5bccb63228?source=rss-63332736e4ac------2)
 - [kubectl: The Command-Line Interface for Kubernetes](https://levelup.gitconnected.com/kubectl-the-command-line-interface-for-kubernetes-2b68a0f9e2ee?source=rss-63332736e4ac------2)
 - [Introduction to Go Mutex](https://levelup.gitconnected.com/introduction-to-go-mutex-ac0a06a6a5e3?source=rss-63332736e4ac------2)
 - [Power of Kubernetes Sidecars](https://adityaajoshi.medium.com/power-of-kubernetes-sidecars-c1f82d17446e?source=rss-63332736e4ac------2)
-- [JavaScript Tricks Every Developer Should Know](https://levelup.gitconnected.com/javascript-tricks-every-developer-should-know-cedf71f7125b?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

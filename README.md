@@ -105,7 +105,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tOsfGRmfHkM"><img width="140px" src="https://i.ytimg.com/vi/tOsfGRmfHkM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tOsfGRmfHkM">Optimizing Hyperledger Fabric Network Configuration for Maximum Throughput &lpar;TPS&rpar;</a><br/>Jan 13, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=tOsfGRmfHkM">Optimizing Hyperledger Fabric Network Configuration for Maximum Throughput &lpar;TPS&rpar;</a><br/>Jan 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FY9l_Rey7h8"><img width="140px" src="https://i.ytimg.com/vi/FY9l_Rey7h8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FY9l_Rey7h8">Building Vault Client - NodeJS | Hands On Vault | ADITYA JOSHI |</a><br/>Nov 21, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UBt7snZ6zGU"><img width="140px" src="https://i.ytimg.com/vi/UBt7snZ6zGU/mqdefault.jpg"></a></td>

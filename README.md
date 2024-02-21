@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2513](https://github.com/hyperledger/bevel/issues/2513) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-2. 👍 Approved [#131](https://github.com/hyperledger-labs/hlf-connector/pull/131#pullrequestreview-1862579635) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-4. 💪 Opened PR [#25](https://github.com/adityajoshi12/kubernetes-development/pull/25) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+1. ❌ Closed PR [#2514](https://github.com/hyperledger/bevel/pull/2514) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+2. 💪 Opened PR [#2514](https://github.com/hyperledger/bevel/pull/2514) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+3. ❗️ Opened issue [#2513](https://github.com/hyperledger/bevel/issues/2513) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+4. 👍 Approved [#131](https://github.com/hyperledger-labs/hlf-connector/pull/131#pullrequestreview-1862579635) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-6. 💪 Opened PR [#24](https://github.com/adityajoshi12/kubernetes-development/pull/24) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+6. 💪 Opened PR [#25](https://github.com/adityajoshi12/kubernetes-development/pull/25) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-8. ✌️ Released [v1.1.5](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.5) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+8. 💪 Opened PR [#24](https://github.com/adityajoshi12/kubernetes-development/pull/24) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+10. ✌️ Released [v1.1.5](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.5) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
 <!--RECENT_ACTIVITY:end-->
 
 

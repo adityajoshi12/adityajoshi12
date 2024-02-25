@@ -85,11 +85,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing the Singleton Pattern in Go](https://levelup.gitconnected.com/implementing-the-singleton-pattern-in-go-7e0f8e88c82c?source=rss-63332736e4ac------2)
 - [Kubernetes 101: Admission Webhooks](https://levelup.gitconnected.com/kubernetes-101-admission-webhooks-b62920f0ff9b?source=rss-63332736e4ac------2)
 - [Mastering the Kubeconfig File: Kubernetes Cluster Management](https://levelup.gitconnected.com/mastering-the-kubeconfig-file-kubernetes-cluster-management-d6ae01dc7efb?source=rss-63332736e4ac------2)
 - [How to Handle High Cardinality Metrics](https://levelup.gitconnected.com/how-to-handle-high-cardinality-metrics-c3840d825b45?source=rss-63332736e4ac------2)
 - [Harbor vs Docker Distribution vs Quay](https://levelup.gitconnected.com/harbor-vs-docker-distribution-vs-quay-8e5bccb63228?source=rss-63332736e4ac------2)
-- [kubectl: The Command-Line Interface for Kubernetes](https://levelup.gitconnected.com/kubectl-the-command-line-interface-for-kubernetes-2b68a0f9e2ee?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

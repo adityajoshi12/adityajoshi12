@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+1. ❗️ Opened issue [#2518](https://github.com/hyperledger/bevel/issues/2518) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-4. 💬 Commented on [#1163](https://github.com/hyperledger/fabric-samples/pull/1163#issuecomment-1962385420) in [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)
-5. ✌️ Released [v1.1.6](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.6) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+5. 💬 Commented on [#1163](https://github.com/hyperledger/fabric-samples/pull/1163#issuecomment-1962385420) in [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)
+6. ✌️ Released [v1.1.6](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.6) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
 7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/scaler-operator](https://github.com/adityajoshi12/scaler-operator)
-9. ❌ Closed PR [#2514](https://github.com/hyperledger/bevel/pull/2514) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-10. 💪 Opened PR [#2514](https://github.com/hyperledger/bevel/pull/2514) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/scaler-operator](https://github.com/adityajoshi12/scaler-operator)
+10. ❌ Closed PR [#2514](https://github.com/hyperledger/bevel/pull/2514) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--RECENT_ACTIVITY:end-->
 
 

@@ -125,16 +125,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#136](https://github.com/hyperledger-labs/hlf-connector/pull/136#pullrequestreview-1913344276) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-2. ❗️ Opened issue [#2518](https://github.com/hyperledger/bevel/issues/2518) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-6. 💬 Commented on [#1163](https://github.com/hyperledger/fabric-samples/pull/1163#issuecomment-1962385420) in [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)
-7. ✌️ Released [v1.1.6](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.6) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/scaler-operator](https://github.com/adityajoshi12/scaler-operator)
+1. 💪 Opened PR [#26](https://github.com/adityajoshi12/kubernetes-development/pull/26) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+3. 👍 Approved [#136](https://github.com/hyperledger-labs/hlf-connector/pull/136#pullrequestreview-1913344276) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+4. ❗️ Opened issue [#2518](https://github.com/hyperledger/bevel/issues/2518) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+8. 💬 Commented on [#1163](https://github.com/hyperledger/fabric-samples/pull/1163#issuecomment-1962385420) in [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples)
+9. ✌️ Released [v1.1.6](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.6) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
 <!--RECENT_ACTIVITY:end-->
 
 

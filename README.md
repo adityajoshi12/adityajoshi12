@@ -105,7 +105,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZF7vyVbnS5g"><img width="140px" src="https://i.ytimg.com/vi/ZF7vyVbnS5g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZF7vyVbnS5g">Root-CA &amp; Intermediate CA in Hyperledger Fabric | Intermediate CA Hyperledger Fabric | ADITYA JOSHI</a><br/>Mar 3, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=ZF7vyVbnS5g">Root-CA &amp; Intermediate CA in Hyperledger Fabric | Intermediate CA Hyperledger Fabric | ADITYA JOSHI</a><br/>Mar 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Wz_A6fm1Dgs"><img width="140px" src="https://i.ytimg.com/vi/Wz_A6fm1Dgs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Wz_A6fm1Dgs">Kubernetes Admission Webhook | Building Mutating Webhook | ADITYA JOSHI |</a><br/>Feb 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rTAnXw_V7Ko"><img width="140px" src="https://i.ytimg.com/vi/rTAnXw_V7Ko/mqdefault.jpg"></a></td>

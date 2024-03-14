@@ -6,15 +6,15 @@
 ## I'm a Blockchain Engineer, Kubernetes Champ and Instructor@Udemy!!
 <br>
 
-- 👨‍💻 Software Engineer 3@Walmart
+- 👨‍💻 Software Engineer 4@Walmart
 - 👨‍💻 Developer Advocate @Hyperledger
 - 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!
-- 🏆 I'm also Certified Kubernetes Adminstrator (CKA) and Application Developer (CKAD)!
-- 🥅 Working on Enterprise Blockchain
+- 🏆 I'm also Certified Kubernetes Adminstrator (CKA), Application Developer (CKAD) and Security Specialist (CKS)!
+- 🥅 Working on Enterprise Blockchain and kubernetes toolings
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other awesome creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 👨‍💻 LFX Mentee [Deploy Carbon Accounting Network with Bevel](https://wiki.hyperledger.org/display/INTERN/Project+Plan+-+Deploy+Carbon+Accounting+Network+with+Bevel)
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- 👨‍💻 Checkout my Course at [ByteLearn](https://courses.bytelearn.in/s/store) and [Udemy](https://www.udemy.com/user/aditya-joshi-9/)
 - 🦸‍♂️ Maintainer of [bevel](https://github.com/hyperledger/bevel), [HLF-Operator](https://github.com/hyperledger/bevel-operator-fabric), [blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
 
 ## Courses
@@ -147,7 +147,8 @@
 
 
 [website]: https://adityajoshi.online
-[course]: https://www.udemy.com/course/learn-to-deploy-hyperledger-fabric-v22-on-multihost/
+[course]: https://courses.bytelearn.in/s/store
 [twitter]: https://twitter.com/adityaajoshi12
 [instagram]: https://instagram.com/aditya_joshi_official
 [linkedin]: https://linkedin.com/in/adityajoshi12
+

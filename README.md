@@ -26,7 +26,7 @@
 
 - <img src="https://img-c.udemycdn.com/course/240x135/3815532_1edc_2.jpg" width="100px"/> [Master Class On Hyperledger Besu](https://udemy.com/course/hyperledger-besu-master-class)
 
-- <img src="https://img-c.udemycdn.com/course/240x135/3814476_e3c7.jpg" width="100px"/> [Certified Blockchain Developer Certification - 2022](https://www.udemy.com/course/certified-blockchain-developer-certification)
+- <img src="https://img-c.udemycdn.com/course/240x135/3814476_e3c7.jpg" width="100px"/> [Certified Blockchain Developer Certification - 2024](https://www.udemy.com/course/certified-blockchain-developer-certification)
 
 
 

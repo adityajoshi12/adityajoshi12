@@ -104,7 +104,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZF7vyVbnS5g"><img width="140px" src="https://i.ytimg.com/vi/ZF7vyVbnS5g/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1GAwKFUPKV4"><img width="140px" src="https://i.ytimg.com/vi/1GAwKFUPKV4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1GAwKFUPKV4">Maximizing Transaction Throughput in Hyperledger Fabric Network | ADITYA JOSHI  #javascript #code</a><br/>Mar 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZF7vyVbnS5g"><img width="140px" src="https://i.ytimg.com/vi/ZF7vyVbnS5g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZF7vyVbnS5g">Root-CA &amp; Intermediate CA in Hyperledger Fabric | Intermediate CA Hyperledger Fabric | ADITYA JOSHI</a><br/>Mar 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Wz_A6fm1Dgs"><img width="140px" src="https://i.ytimg.com/vi/Wz_A6fm1Dgs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Wz_A6fm1Dgs">Kubernetes Admission Webhook | Building Mutating Webhook | ADITYA JOSHI |</a><br/>Feb 16, 2024</td></tr></table>
@@ -112,8 +114,6 @@
 <td><a href="https://www.youtube.com/watch?v=rTAnXw_V7Ko">Updating Batch Size in Hyperledger Fabric | Channel Update | ADITYA JOSHI |</a><br/>Feb 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tOsfGRmfHkM"><img width="140px" src="https://i.ytimg.com/vi/tOsfGRmfHkM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tOsfGRmfHkM">Optimizing Hyperledger Fabric Network Configuration for Maximum Throughput &lpar;TPS&rpar;</a><br/>Jan 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FY9l_Rey7h8"><img width="140px" src="https://i.ytimg.com/vi/FY9l_Rey7h8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FY9l_Rey7h8">Building Vault Client - NodeJS | Hands On Vault | ADITYA JOSHI |</a><br/>Nov 21, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=adityajoshi.online&style=for-the-badge&url=https%3A%2F%2Fadityajoshi.online)](https://adityajoshi.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityaajoshi12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityaajoshi12)
 
-## I'm a Blockchain Engineer, Kubernetes Champ and Instructor@Udemy!!
+## I'm a Blockchain Engineer@Walmart, Kubernetes Champ and Instructor@Udemy!!
 <br>
 
 - 👨‍💻 Software Engineer 4@Walmart
@@ -20,6 +20,8 @@
 ## Courses
 <br>
 
+- <img src="https://d502jbuhuh9wk.cloudfront.net/courses/651a3f0ce4b05be61a8c93b5/651a3f0ce4b05be61a8c93b5_scaled_cover.jpg" width="100px"/> [Building Enterprises Ready Hyperledger Fabric Networks](https://courses.bytelearn.in/courses/Building-Enterprises-Ready-Hyperledger-Fabric-Networks-651a3f0ce4b05be61a8c93b5-651a3f0ce4b05be61a8c93b5)
+- <img src="https://d502jbuhuh9wk.cloudfront.net/courses/6582a990e4b0f762acd78a07/6582a990e4b0f762acd78a07_scaled_cover.jpg" width="100px"/> [Hyperledger Fabric Certified Pracitioner (HFCP) - 2024](https://courses.bytelearn.in/courses/Hyperledger-Fabric-Certified-Practitioner-HFCP-6582a990e4b0f762acd78a07)
 - <img src="https://img-c.udemycdn.com/course/240x135/3741540_d31f_4.jpg" width="100px"/> [Learn to Deploy Hyperledger Fabric v2.2 on Multihost](https://udemy.com/course/learn-to-deploy-hyperledger-fabric-v22-on-multihost/)
 
 - <img src="https://img-c.udemycdn.com/course/240x135/3970920_6f16_4.jpg" width="100px"/> [The Complete Guide on Hyperledger Fabric v2.x on Kubernetes](https://www.udemy.com/course/hyperledger-fabric-on-kubernetes-complete-guide)

@@ -127,16 +127,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2534](https://github.com/hyperledger/bevel/issues/2534) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-2. 💬 Commented on [#2525](https://github.com/hyperledger/bevel/issues/2525#issuecomment-2022115903) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-3. ✔️ Closed issue [#2525](https://github.com/hyperledger/bevel/issues/2525) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-4. 💬 Commented on [#2527](https://github.com/hyperledger/bevel/issues/2527#issuecomment-2022111906) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-6. 💪 Opened PR [#2532](https://github.com/hyperledger/bevel/pull/2532) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-7. ⬆️ Pushed 3 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
-8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bevel](https://github.com/adityajoshi12/bevel)
+1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+5. ❗️ Opened issue [#2534](https://github.com/hyperledger/bevel/issues/2534) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+6. 💬 Commented on [#2525](https://github.com/hyperledger/bevel/issues/2525#issuecomment-2022115903) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+7. ✔️ Closed issue [#2525](https://github.com/hyperledger/bevel/issues/2525) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+8. 💬 Commented on [#2527](https://github.com/hyperledger/bevel/issues/2527#issuecomment-2022111906) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-10. 💪 Opened PR [#2528](https://github.com/hyperledger/bevel/pull/2528) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+10. 💪 Opened PR [#2532](https://github.com/hyperledger/bevel/pull/2532) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--RECENT_ACTIVITY:end-->
 
 

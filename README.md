@@ -127,16 +127,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-5. ❗️ Opened issue [#2534](https://github.com/hyperledger/bevel/issues/2534) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-6. 💬 Commented on [#2525](https://github.com/hyperledger/bevel/issues/2525#issuecomment-2022115903) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-7. ✔️ Closed issue [#2525](https://github.com/hyperledger/bevel/issues/2525) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-8. 💬 Commented on [#2527](https://github.com/hyperledger/bevel/issues/2527#issuecomment-2022111906) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-samples-advance-topics](https://github.com/adityajoshi12/fabric-samples-advance-topics)
-10. 💪 Opened PR [#2532](https://github.com/hyperledger/bevel/pull/2532) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+1. 👍 Approved [#142](https://github.com/hyperledger-labs/hlf-connector/pull/142#pullrequestreview-1973570145) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+2. ❗️ Opened issue [#2535](https://github.com/hyperledger/bevel/issues/2535) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+3. ✌️ Released [v1.1.7](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.7) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+9. ❗️ Opened issue [#2534](https://github.com/hyperledger/bevel/issues/2534) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+10. 💬 Commented on [#2525](https://github.com/hyperledger/bevel/issues/2525#issuecomment-2022115903) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
 <!--RECENT_ACTIVITY:end-->
 
 

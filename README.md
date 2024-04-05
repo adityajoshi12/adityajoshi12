@@ -127,16 +127,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-2. 👍 Approved [#142](https://github.com/hyperledger-labs/hlf-connector/pull/142#pullrequestreview-1973570145) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-3. ❗️ Opened issue [#2535](https://github.com/hyperledger/bevel/issues/2535) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
-4. ✌️ Released [v1.1.7](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.7) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+1. 💪 Opened PR [#27](https://github.com/adityajoshi12/kubernetes-development/pull/27) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+4. 👍 Approved [#142](https://github.com/hyperledger-labs/hlf-connector/pull/142#pullrequestreview-1973570145) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+5. ❗️ Opened issue [#2535](https://github.com/hyperledger/bevel/issues/2535) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+6. ✌️ Released [v1.1.7](https://github.com/adityajoshi12/akc-dcm-cli/releases/tag/v1.1.7) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
 8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
 9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-10. ❗️ Opened issue [#2534](https://github.com/hyperledger/bevel/issues/2534) in [hyperledger/bevel](https://github.com/hyperledger/bevel)
+10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
 <!--RECENT_ACTIVITY:end-->
 
 

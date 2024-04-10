@@ -127,16 +127,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#216](https://github.com/hyperledger/bevel-operator-fabric/pull/216) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-3. 👍 Approved [#144](https://github.com/hyperledger-labs/hlf-connector/pull/144#pullrequestreview-1985131400) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+1. ⬆️ Pushed 2 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+2. 🎉 Merged PR [#27](https://github.com/adityajoshi12/kubernetes-development/pull/27) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+4. 💪 Opened PR [#216](https://github.com/hyperledger/bevel-operator-fabric/pull/216) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+6. 👍 Approved [#144](https://github.com/hyperledger-labs/hlf-connector/pull/144#pullrequestreview-1985131400) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
 8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
 9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-10. 💪 Opened PR [#27](https://github.com/adityajoshi12/kubernetes-development/pull/27) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
 <!--RECENT_ACTIVITY:end-->
 
 

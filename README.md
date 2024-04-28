@@ -127,16 +127,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
-2. 💪 Opened PR [#196](https://github.com/hyperledger/fabric-admin-sdk/pull/196) in [hyperledger/fabric-admin-sdk](https://github.com/hyperledger/fabric-admin-sdk)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
-4. ⬆️ Pushed 169 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
-5. ⬆️ Pushed 2 commit(s) to [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-6. 🎉 Merged PR [#216](https://github.com/hyperledger/bevel-operator-fabric/pull/216) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
+3. 💪 Opened PR [#196](https://github.com/hyperledger/fabric-admin-sdk/pull/196) in [hyperledger/fabric-admin-sdk](https://github.com/hyperledger/fabric-admin-sdk)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
+5. ⬆️ Pushed 169 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
+6. ⬆️ Pushed 2 commit(s) to [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+7. 🎉 Merged PR [#216](https://github.com/hyperledger/bevel-operator-fabric/pull/216) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
 8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
 9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-10. ⬆️ Pushed 2 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
 <!--RECENT_ACTIVITY:end-->
 
 

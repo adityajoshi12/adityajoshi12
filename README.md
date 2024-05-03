@@ -87,11 +87,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Beyond Nil: The Power of Options for Robust Code](https://levelup.gitconnected.com/go-beyond-nil-the-power-of-options-for-robust-code-f9cc3d568546?source=rss-63332736e4ac------2)
 - [Creating a Kubernetes Cluster on DigitalOcean with Terraform](https://levelup.gitconnected.com/creating-a-kubernetes-cluster-on-digitalocean-with-terraform-78de18d53681?source=rss-63332736e4ac------2)
 - [Demystifying Client-Go: The Powerhouse for Kubernetes Interactions](https://levelup.gitconnected.com/demystifying-client-go-the-powerhouse-for-kubernetes-interactions-44baa6d4d787?source=rss-63332736e4ac------2)
 - [Implementing the Singleton Pattern in Go](https://levelup.gitconnected.com/implementing-the-singleton-pattern-in-go-7e0f8e88c82c?source=rss-63332736e4ac------2)
 - [Kubernetes 101: Admission Webhooks](https://levelup.gitconnected.com/kubernetes-101-admission-webhooks-b62920f0ff9b?source=rss-63332736e4ac------2)
-- [Mastering the Kubeconfig File: Kubernetes Cluster Management](https://levelup.gitconnected.com/mastering-the-kubeconfig-file-kubernetes-cluster-management-d6ae01dc7efb?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

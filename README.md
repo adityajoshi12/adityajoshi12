@@ -127,16 +127,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+1. ❗️ Opened issue [#199](https://github.com/hyperledger/fabric-admin-sdk/issues/199) in [hyperledger/fabric-admin-sdk](https://github.com/hyperledger/fabric-admin-sdk)
 2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
 3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
-4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
-5. 💪 Opened PR [#196](https://github.com/hyperledger/fabric-admin-sdk/pull/196) in [hyperledger/fabric-admin-sdk](https://github.com/hyperledger/fabric-admin-sdk)
-6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
-7. ⬆️ Pushed 169 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
-8. ⬆️ Pushed 2 commit(s) to [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-9. 🎉 Merged PR [#216](https://github.com/hyperledger/bevel-operator-fabric/pull/216) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/devops-training](https://github.com/adityajoshi12/devops-training)
+5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
+6. 💪 Opened PR [#196](https://github.com/hyperledger/fabric-admin-sdk/pull/196) in [hyperledger/fabric-admin-sdk](https://github.com/hyperledger/fabric-admin-sdk)
+7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
+8. ⬆️ Pushed 169 commit(s) to [adityajoshi12/fabric-admin-sdk](https://github.com/adityajoshi12/fabric-admin-sdk)
+9. ⬆️ Pushed 2 commit(s) to [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+10. 🎉 Merged PR [#216](https://github.com/hyperledger/bevel-operator-fabric/pull/216) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
 <!--RECENT_ACTIVITY:end-->
 
 

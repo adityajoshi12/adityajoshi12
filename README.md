@@ -109,7 +109,7 @@
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=USVFyhgO1Bo"><img width="140px" src="https://i.ytimg.com/vi/USVFyhgO1Bo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=USVFyhgO1Bo">▶ Multi-Cluster Hyperledger Fabric Network - Course | ADITYA JOSHI |</a><br/>May 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sYVAqijlz30"><img width="140px" src="https://i.ytimg.com/vi/sYVAqijlz30/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sYVAqijlz30">Boosting Trust with Hardware Security Modules in Hyperledger Fabric | HSM with HLF | ADITYA JOSHI |</a><br/>Mar 29, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=sYVAqijlz30">Implementing Hardware Security Modules in Hyperledger Fabric | HSM with HLF | ADITYA JOSHI |</a><br/>Mar 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1GAwKFUPKV4"><img width="140px" src="https://i.ytimg.com/vi/1GAwKFUPKV4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1GAwKFUPKV4">Maximizing Transaction Throughput in Hyperledger Fabric Network | ADITYA JOSHI  #javascript #code</a><br/>Mar 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZF7vyVbnS5g"><img width="140px" src="https://i.ytimg.com/vi/ZF7vyVbnS5g/mqdefault.jpg"></a></td>

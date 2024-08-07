@@ -106,7 +106,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=USVFyhgO1Bo"><img width="140px" src="https://i.ytimg.com/vi/USVFyhgO1Bo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vZTKPFpokVw"><img width="140px" src="https://i.ytimg.com/vi/vZTKPFpokVw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vZTKPFpokVw">▶︎ Hyperledger Fabric Network Optmisation | Part 1 | ADITYA JOSHI |</a><br/>Aug 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=USVFyhgO1Bo"><img width="140px" src="https://i.ytimg.com/vi/USVFyhgO1Bo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=USVFyhgO1Bo">▶ Multi-Cluster Hyperledger Fabric Network - Course | ADITYA JOSHI |</a><br/>May 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sYVAqijlz30"><img width="140px" src="https://i.ytimg.com/vi/sYVAqijlz30/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sYVAqijlz30">Implementing Hardware Security Modules in Hyperledger Fabric | HSM with HLF | ADITYA JOSHI |</a><br/>Mar 29, 2024</td></tr></table>
@@ -114,8 +116,6 @@
 <td><a href="https://www.youtube.com/watch?v=1GAwKFUPKV4">Maximizing Transaction Throughput in Hyperledger Fabric Network | ADITYA JOSHI  #javascript #code</a><br/>Mar 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZF7vyVbnS5g"><img width="140px" src="https://i.ytimg.com/vi/ZF7vyVbnS5g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZF7vyVbnS5g">Root-CA &amp; Intermediate CA in Hyperledger Fabric | Intermediate CA Hyperledger Fabric | ADITYA JOSHI</a><br/>Mar 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Wz_A6fm1Dgs"><img width="140px" src="https://i.ytimg.com/vi/Wz_A6fm1Dgs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Wz_A6fm1Dgs">Kubernetes Admission Webhook | Building Mutating Webhook | ADITYA JOSHI |</a><br/>Feb 16, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

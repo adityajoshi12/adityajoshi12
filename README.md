@@ -8,9 +8,9 @@
 
 - 👨‍💻 Software Engineer 4@Walmart
 - 👨‍💻 Developer Advocate @Hyperledger
-- 🔭 I'm Certified Hyperledger Fabric Administrator (CHFA)!
-- 🏆 I'm also Certified Kubernetes Adminstrator (CKA), Application Developer (CKAD) and Security Specialist (CKS)!
-- 🥅 Working on Enterprise Blockchain and kubernetes toolings
+- 🔭 I'm a Certified Hyperledger Fabric Administrator (CHFA) and Hyperledger Fabric Certified Practitioner (HFCP)!
+- 🏆 I'm also a Certified Kubernetes Administrator (CKA), Application Developer (CKAD) and Security Specialist (CKS)!
+- 🥅 Working on Enterprise Blockchain and Kubernetes toolings
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other awesome creators
 - 🥅 2024 Goals: Contribute more to Open Source projects

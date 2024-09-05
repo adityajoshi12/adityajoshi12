@@ -127,16 +127,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/suvajit-sarkar/toc/pull/1) in [suvajit-sarkar/toc](https://github.com/suvajit-sarkar/toc)
-2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/toc](https://github.com/adityajoshi12/toc)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-ca-cert-manager](https://github.com/adityajoshi12/fabric-ca-cert-manager)
-4. 💪 Opened PR [#34](https://github.com/adityajoshi12/kubernetes-development/pull/34) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-6. 💪 Opened PR [#33](https://github.com/adityajoshi12/kubernetes-development/pull/33) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-8. 💬 Commented on [#225](https://github.com/hyperledger/bevel-operator-fabric/issues/225#issuecomment-2260010319) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
-9. 💪 Opened PR [#32](https://github.com/adityajoshi12/kubernetes-development/pull/32) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+1. 💪 Opened PR [#233](https://github.com/hyperledger/bevel-operator-fabric/pull/233) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+2. ⬆️ Pushed 6 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+3. ⬆️ Pushed 2 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+4. 🎉 Merged PR [#34](https://github.com/adityajoshi12/kubernetes-development/pull/34) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+5. ✔️ Closed issue [#210](https://github.com/hyperledger/bevel-operator-fabric/issues/210) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+6. 💬 Commented on [#228](https://github.com/hyperledger/bevel-operator-fabric/issues/228#issuecomment-2329632394) in [hyperledger/bevel-operator-fabric](https://github.com/hyperledger/bevel-operator-fabric)
+7. 💪 Opened PR [#1](https://github.com/suvajit-sarkar/toc/pull/1) in [suvajit-sarkar/toc](https://github.com/suvajit-sarkar/toc)
+8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/toc](https://github.com/adityajoshi12/toc)
+9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/fabric-ca-cert-manager](https://github.com/adityajoshi12/fabric-ca-cert-manager)
+10. 💪 Opened PR [#34](https://github.com/adityajoshi12/kubernetes-development/pull/34) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 <!--RECENT_ACTIVITY:end-->
 
 

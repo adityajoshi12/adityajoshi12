@@ -107,7 +107,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LPYPrKEw9bA"><img width="140px" src="https://i.ytimg.com/vi/LPYPrKEw9bA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LPYPrKEw9bA">Decentralized Orderers in Hyperledger Fabric | ADITYA JOSHI |</a><br/>Sep 22, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=LPYPrKEw9bA">Decentralized Orderers in Hyperledger Fabric | ADITYA JOSHI |</a><br/>Sep 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ospVs0xp_hI"><img width="140px" src="https://i.ytimg.com/vi/ospVs0xp_hI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ospVs0xp_hI">Building Container Image Scanning Webhook using Operator SDK | Kubernetes Admission Webhook</a><br/>Sep 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SDutaPQ086Y"><img width="140px" src="https://i.ytimg.com/vi/SDutaPQ086Y/mqdefault.jpg"></a></td>

@@ -107,7 +107,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2eepFbsDlXA"><img width="140px" src="https://i.ytimg.com/vi/2eepFbsDlXA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2eepFbsDlXA">Hyperledger Fabric Network Backup &amp; Restoration | Backup Kubernetes Cluster | ADITYA JOSHI |</a><br/>Oct 14, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=2eepFbsDlXA">Hyperledger Fabric Network Backup &amp; Restoration | Backup Kubernetes Cluster | ADITYA JOSHI |</a><br/>Oct 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LPYPrKEw9bA"><img width="140px" src="https://i.ytimg.com/vi/LPYPrKEw9bA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LPYPrKEw9bA">Decentralized Orderers in Hyperledger Fabric | ADITYA JOSHI |</a><br/>Sep 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ospVs0xp_hI"><img width="140px" src="https://i.ytimg.com/vi/ospVs0xp_hI/mqdefault.jpg"></a></td>

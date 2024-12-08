@@ -106,7 +106,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ekO2OSLQFQQ"><img width="140px" src="https://i.ytimg.com/vi/ekO2OSLQFQQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ebl4mSnKazY"><img width="140px" src="https://i.ytimg.com/vi/ebl4mSnKazY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ebl4mSnKazY">Hyperledger Fabric with External CA and HSM | ADITYA JOSHI |</a><br/>Dec 8, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ekO2OSLQFQQ"><img width="140px" src="https://i.ytimg.com/vi/ekO2OSLQFQQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ekO2OSLQFQQ">Local Kubernetes Cluster using Docker | Run Kubernetes Locally | ADITYA JOSHI</a><br/>Nov 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QGSNt2ByufY"><img width="140px" src="https://i.ytimg.com/vi/QGSNt2ByufY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QGSNt2ByufY">Hyperledger Fabric Network Restoration | Part 5 | Disaster Recovery | ADITYA JOSHI |</a><br/>Oct 25, 2024</td></tr></table>
@@ -114,8 +116,6 @@
 <td><a href="https://www.youtube.com/watch?v=2eepFbsDlXA">Hyperledger Fabric Network Backup &amp; Restoration | Backup Kubernetes Cluster | ADITYA JOSHI |</a><br/>Oct 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LPYPrKEw9bA"><img width="140px" src="https://i.ytimg.com/vi/LPYPrKEw9bA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LPYPrKEw9bA">Decentralized Orderers in Hyperledger Fabric | ADITYA JOSHI |</a><br/>Sep 23, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ospVs0xp_hI"><img width="140px" src="https://i.ytimg.com/vi/ospVs0xp_hI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ospVs0xp_hI">Building Container Image Scanning Webhook using Operator SDK | Kubernetes Admission Webhook</a><br/>Sep 3, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

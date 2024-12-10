@@ -107,7 +107,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ebl4mSnKazY"><img width="140px" src="https://i.ytimg.com/vi/ebl4mSnKazY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ebl4mSnKazY">Hyperledger Fabric with External CA and HSM | ADITYA JOSHI |</a><br/>Dec 8, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=ebl4mSnKazY">Hyperledger Fabric with External CA and HSM | ADITYA JOSHI |</a><br/>Dec 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ekO2OSLQFQQ"><img width="140px" src="https://i.ytimg.com/vi/ekO2OSLQFQQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ekO2OSLQFQQ">Local Kubernetes Cluster using Docker | Run Kubernetes Locally | ADITYA JOSHI</a><br/>Nov 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QGSNt2ByufY"><img width="140px" src="https://i.ytimg.com/vi/QGSNt2ByufY/mqdefault.jpg"></a></td>

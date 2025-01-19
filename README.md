@@ -127,16 +127,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+1. ⬆️ Pushed 0 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
 2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
 3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
-6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
-8. 💪 Opened PR [#251](https://github.com/hyperledger-bevel/bevel-operator-fabric/pull/251) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
-9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-10. ⬆️ Pushed 3 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
+10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/bytelearn-website](https://github.com/adityajoshi12/bytelearn-website)
 <!--RECENT_ACTIVITY:end-->
 
 

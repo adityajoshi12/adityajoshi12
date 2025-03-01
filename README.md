@@ -127,16 +127,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
-2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
+1. ⬆️ Pushed 2 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+2. 🎉 Merged PR [#39](https://github.com/adityajoshi12/kubernetes-development/pull/39) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
 4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
 5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
 6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
 7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
-8. 👍 Approved [#154](https://github.com/hyperledger-labs/hlf-connector/pull/154#pullrequestreview-2635994276) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-10. 💪 Opened PR [#39](https://github.com/adityajoshi12/kubernetes-development/pull/39) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
+9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
+10. 👍 Approved [#154](https://github.com/hyperledger-labs/hlf-connector/pull/154#pullrequestreview-2635994276) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 <!--RECENT_ACTIVITY:end-->
 
 

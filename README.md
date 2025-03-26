@@ -135,8 +135,6 @@
 6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
 7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
 8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
-9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
-10. 👍 Approved [#154](https://github.com/hyperledger-labs/hlf-connector/pull/154#pullrequestreview-2635994276) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 <!--RECENT_ACTIVITY:end-->
 
 

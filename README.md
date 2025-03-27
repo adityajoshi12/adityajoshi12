@@ -129,12 +129,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 2. 🎉 Merged PR [#39](https://github.com/adityajoshi12/kubernetes-development/pull/39) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
-4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
-5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
-6. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
-8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-multi-cluster](https://github.com/adityajoshi12/flux-multi-cluster)
 <!--RECENT_ACTIVITY:end-->
 
 

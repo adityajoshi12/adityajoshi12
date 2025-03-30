@@ -131,8 +131,6 @@
 2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
 3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
 4. ⬆️ Pushed 98 commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
-5. ⬆️ Pushed 2 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-6. 🎉 Merged PR [#39](https://github.com/adityajoshi12/kubernetes-development/pull/39) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 <!--RECENT_ACTIVITY:end-->
 
 

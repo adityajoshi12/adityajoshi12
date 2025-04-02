@@ -106,7 +106,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qvAlVY59Oxo"><img width="140px" src="https://i.ytimg.com/vi/qvAlVY59Oxo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=R-uTKyPsCCw"><img width="140px" src="https://i.ytimg.com/vi/R-uTKyPsCCw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=R-uTKyPsCCw">Building GitHub Codespace using Kubernetes Operator | ADITYA JOSHI |</a><br/>Apr 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qvAlVY59Oxo"><img width="140px" src="https://i.ytimg.com/vi/qvAlVY59Oxo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qvAlVY59Oxo">Unit Testing with Testcontainers: A Practical Guide for Developers 🚀 | ADITYA JOSHI |</a><br/>Feb 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zk9c-0ZOnIM"><img width="140px" src="https://i.ytimg.com/vi/zk9c-0ZOnIM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zk9c-0ZOnIM">Hyperledger Fabric Course Overview &amp; Details | ADITYA JOSHI |</a><br/>Feb 7, 2025</td></tr></table>
@@ -114,8 +116,6 @@
 <td><a href="https://www.youtube.com/watch?v=ebl4mSnKazY">Hyperledger Fabric with External CA and HSM | ADITYA JOSHI |</a><br/>Dec 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ekO2OSLQFQQ"><img width="140px" src="https://i.ytimg.com/vi/ekO2OSLQFQQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ekO2OSLQFQQ">Local Kubernetes Cluster using Docker | Run Kubernetes Locally | ADITYA JOSHI</a><br/>Nov 26, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QGSNt2ByufY"><img width="140px" src="https://i.ytimg.com/vi/QGSNt2ByufY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QGSNt2ByufY">Hyperledger Fabric Network Restoration | Part 5 | Disaster Recovery | ADITYA JOSHI |</a><br/>Oct 25, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

@@ -127,11 +127,12 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-2. 💪 Opened PR [#156](https://github.com/hyperledger-labs/hlf-connector/pull/156) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
+1. 👍 Approved [#2658](https://github.com/hyperledger-bevel/bevel/pull/2658#pullrequestreview-2736859465) in [hyperledger-bevel/bevel](https://github.com/hyperledger-bevel/bevel)
+2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+3. 💪 Opened PR [#156](https://github.com/hyperledger-labs/hlf-connector/pull/156) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
-5. ⬆️ Pushed 98 commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
+5. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
+6. ⬆️ Pushed 98 commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
 <!--RECENT_ACTIVITY:end-->
 
 

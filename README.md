@@ -107,7 +107,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=R-uTKyPsCCw"><img width="140px" src="https://i.ytimg.com/vi/R-uTKyPsCCw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=R-uTKyPsCCw">Building GitHub Codespace using Kubernetes Operator | ADITYA JOSHI |</a><br/>Apr 2, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=R-uTKyPsCCw">Building GitHub Codespace using Kubernetes Operator | ADITYA JOSHI |</a><br/>Apr 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qvAlVY59Oxo"><img width="140px" src="https://i.ytimg.com/vi/qvAlVY59Oxo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qvAlVY59Oxo">Unit Testing with Testcontainers: A Practical Guide for Developers 🚀 | ADITYA JOSHI |</a><br/>Feb 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zk9c-0ZOnIM"><img width="140px" src="https://i.ytimg.com/vi/zk9c-0ZOnIM/mqdefault.jpg"></a></td>

@@ -129,7 +129,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. 👍 Approved [#157](https://github.com/hyperledger-labs/hlf-connector/pull/157#pullrequestreview-2740003080) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 2. 👍 Approved [#2658](https://github.com/hyperledger-bevel/bevel/pull/2658#pullrequestreview-2736859465) in [hyperledger-bevel/bevel](https://github.com/hyperledger-bevel/bevel)
-3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 <!--RECENT_ACTIVITY:end-->
 
 

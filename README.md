@@ -127,8 +127,12 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#157](https://github.com/hyperledger-labs/hlf-connector/pull/157#pullrequestreview-2740003080) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-2. 👍 Approved [#2658](https://github.com/hyperledger-bevel/bevel/pull/2658#pullrequestreview-2736859465) in [hyperledger-bevel/bevel](https://github.com/hyperledger-bevel/bevel)
+1. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+2. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+4. 💬 Commented on [#260](https://github.com/hyperledger-bevel/bevel-operator-fabric/pull/260#issuecomment-2847043260) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
+5. 👍 Approved [#157](https://github.com/hyperledger-labs/hlf-connector/pull/157#pullrequestreview-2740003080) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+6. 👍 Approved [#2658](https://github.com/hyperledger-bevel/bevel/pull/2658#pullrequestreview-2736859465) in [hyperledger-bevel/bevel](https://github.com/hyperledger-bevel/bevel)
 <!--RECENT_ACTIVITY:end-->
 
 

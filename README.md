@@ -3,17 +3,17 @@
 [![Website](https://img.shields.io/website?label=adityajoshi.online&style=for-the-badge&url=https%3A%2F%2Fadityajoshi.online)](https://adityajoshi.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityaajoshi12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityaajoshi12)
 
-## I'm a Senior SDE@Walmart, [CNCF Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=in&p=aditya-joshi) and Instructor@Udemy!!
+## I'm a Senior SDE@Walmart, [CNCF Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=in&p=aditya-joshi) and [Instructor@Udemy](https://www.udemy.com/user/aditya-joshi-9)!!
 <br>
 
-- 👨‍💻 Software Engineer 4@Walmart
-- 👨‍💻 Developer Advocate @Hyperledger
+- 👨‍💻 Software Engineer 4@Walmart & Developer Advocate @Hyperledger
+- 🏆 CNCF Kubestronaut
 - 🔭 I'm a Certified Hyperledger Fabric Administrator (CHFA) and Hyperledger Fabric Certified Practitioner (HFCP)!
 - 🏆 I'm also a Certified Kubernetes Administrator (CKA), Application Developer (CKAD) and Security Specialist (CKS)!
 - 🥅 Working on Enterprise Blockchain and Kubernetes toolings
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other awesome creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - 👨‍💻 Checkout my Course at [ByteLearn](https://courses.bytelearn.in/s/store) and [Udemy](https://www.udemy.com/user/aditya-joshi-9/)
 - 🦸‍♂️ Maintainer of [bevel](https://github.com/hyperledger/bevel), [HLF-Operator](https://github.com/hyperledger/bevel-operator-fabric), [blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
 

@@ -132,7 +132,6 @@
 3. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
 4. ⬆️ Pushed 1 commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
 5. 💬 Commented on [#260](https://github.com/hyperledger-bevel/bevel-operator-fabric/pull/260#issuecomment-2847043260) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
-6. 👍 Approved [#157](https://github.com/hyperledger-labs/hlf-connector/pull/157#pullrequestreview-2740003080) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 <!--RECENT_ACTIVITY:end-->
 
 

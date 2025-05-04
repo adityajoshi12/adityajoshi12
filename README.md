@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=adityajoshi.online&style=for-the-badge&url=https%3A%2F%2Fadityajoshi.online)](https://adityajoshi.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityaajoshi12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityaajoshi12)
 
-## I'm a Blockchain Engineer@Walmart, Kubernetes Champ and Instructor@Udemy!!
+## I'm a Senior SDE@Walmart, [CNCF Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=in&p=aditya-joshi) and Instructor@Udemy!!
 <br>
 
 - 👨‍💻 Software Engineer 4@Walmart

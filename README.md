@@ -135,9 +135,6 @@
 5. ✔️ Closed issue [#188](https://github.com/hyperledger-bevel/bevel-operator-fabric/issues/188) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
 6. ✔️ Closed issue [#237](https://github.com/hyperledger-bevel/bevel-operator-fabric/issues/237) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
 7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-chaincode-builder](https://github.com/adityajoshi12/hlf-chaincode-builder)
-8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-chaincode-builder](https://github.com/adityajoshi12/hlf-chaincode-builder)
-9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-chaincode-builder](https://github.com/adityajoshi12/hlf-chaincode-builder)
-10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/hlf-chaincode-builder](https://github.com/adityajoshi12/hlf-chaincode-builder)
 <!--RECENT_ACTIVITY:end-->
 
 

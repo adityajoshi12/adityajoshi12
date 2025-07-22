@@ -108,7 +108,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iMTMCuH61J8"><img width="140px" src="https://i.ytimg.com/vi/iMTMCuH61J8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iMTMCuH61J8">Stop Deploying Manually! Use Flux + GitOps | ADITYA JOSHI |</a><br/>Jul 20, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=iMTMCuH61J8">Stop Deploying Manually! Use Flux + GitOps | ADITYA JOSHI |</a><br/>Jul 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-L4uK-0I22c"><img width="140px" src="https://i.ytimg.com/vi/-L4uK-0I22c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-L4uK-0I22c">Hyperledger Fabric Chaincode Builder | ADITYA JOSHI |</a><br/>May 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=R-uTKyPsCCw"><img width="140px" src="https://i.ytimg.com/vi/R-uTKyPsCCw/mqdefault.jpg"></a></td>

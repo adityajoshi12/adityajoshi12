@@ -134,10 +134,6 @@
 4. 👍 Approved [#161](https://github.com/hyperledger-labs/hlf-connector/pull/161#pullrequestreview-3070163511) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 5. ⬆️ Pushed 1 commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 6. 🎉 Merged PR [#159](https://github.com/hyperledger-labs/hlf-connector/pull/159) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-7. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-gitops](https://github.com/adityajoshi12/flux-gitops)
-8. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-gitops](https://github.com/adityajoshi12/flux-gitops)
-9. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-gitops](https://github.com/adityajoshi12/flux-gitops)
-10. ⬆️ Pushed 1 commit(s) to [adityajoshi12/flux-gitops](https://github.com/adityajoshi12/flux-gitops)
 <!--RECENT_ACTIVITY:end-->
 
 

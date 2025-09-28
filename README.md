@@ -128,6 +128,8 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+2. 🎉 Merged PR [#162](https://github.com/hyperledger-labs/hlf-connector/pull/162) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 <!--RECENT_ACTIVITY:end-->
 
 

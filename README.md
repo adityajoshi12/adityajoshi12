@@ -128,8 +128,10 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-2. 🎉 Merged PR [#162](https://github.com/hyperledger-labs/hlf-connector/pull/162) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+1. 💪 Opened PR [#282](https://github.com/hyperledger-bevel/bevel-operator-fabric/pull/282) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
+2. ⬆️ Pushed 25 commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+3. ⬆️ Pushed 1 commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+4. 🎉 Merged PR [#162](https://github.com/hyperledger-labs/hlf-connector/pull/162) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 <!--RECENT_ACTIVITY:end-->
 
 

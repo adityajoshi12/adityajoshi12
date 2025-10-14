@@ -88,11 +88,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GCP Free Tier: What You Get &amp; How to Maximize It](https://levelup.gitconnected.com/gcp-free-tier-what-you-get-how-to-maximize-it-26760c1f0df7?source=rss-63332736e4ac------2)
 - [Why GitOps is the Backbone of Platform Engineering](https://levelup.gitconnected.com/why-gitops-is-the-backbone-of-platform-engineering-d197b941918d?source=rss-63332736e4ac------2)
 - [GitOps with FluxCD](https://levelup.gitconnected.com/gitops-with-fluxcd-3a3cfb72e817?source=rss-63332736e4ac------2)
 - [Why Kubernetes Uses etcd ?](https://levelup.gitconnected.com/why-kubernetes-uses-etcd-6e99f1b49155?source=rss-63332736e4ac------2)
 - [PACELC Theorem in Distributed Systems](https://levelup.gitconnected.com/pacelc-theorem-in-distributed-systems-7fecd401bb02?source=rss-63332736e4ac------2)
-- [Simplifying Integration Testing Using TestContainers](https://levelup.gitconnected.com/simplifying-integration-testing-using-testcontainers-97b5fe03c101?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

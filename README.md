@@ -128,16 +128,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#19500](https://github.com/microsoft/terminal/pull/19500#issuecomment-3446555823) in [microsoft/terminal](https://github.com/microsoft/terminal)
-2. ⬆️ Pushed undefined commit(s) to [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
-3. 💪 Opened PR [#287](undefined) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
-4. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-5. 💪 Opened PR [#286](undefined) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
-6. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-7. ⬆️ Pushed undefined commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-8. ⬆️ Pushed undefined commit(s) to [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
-9. 💪 Opened PR [#40](undefined) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-10. ⬆️ Pushed undefined commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+1. 💪 Opened PR [#163](undefined) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
+3. ✔️ Closed issue [#64](https://github.com/hyperledger-labs/hlf-connector/issues/64) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+4. ❌ Closed PR [#61](undefined) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+5. 💬 Commented on [#19500](https://github.com/microsoft/terminal/pull/19500#issuecomment-3446555823) in [microsoft/terminal](https://github.com/microsoft/terminal)
+6. ⬆️ Pushed undefined commit(s) to [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
+7. 💪 Opened PR [#287](undefined) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
+8. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+9. 💪 Opened PR [#286](undefined) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
+10. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
 <!--RECENT_ACTIVITY:end-->
 
 

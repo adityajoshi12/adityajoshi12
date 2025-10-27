@@ -128,16 +128,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#287](https://github.com/hyperledger-bevel/bevel-operator-fabric/pull/287#issuecomment-3448724201) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
-2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
-3. 💪 Opened PR [#163](undefined) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-4. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
-5. ✔️ Closed issue [#64](https://github.com/hyperledger-labs/hlf-connector/issues/64) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-6. ❌ Closed PR [#61](undefined) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-7. 💬 Commented on [#19500](https://github.com/microsoft/terminal/pull/19500#issuecomment-3446555823) in [microsoft/terminal](https://github.com/microsoft/terminal)
-8. ⬆️ Pushed undefined commit(s) to [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
-9. 💪 Opened PR [#287](undefined) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
-10. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+1. ❌ Closed PR [#7](undefined) in [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
+2. 💬 Commented on [#287](https://github.com/hyperledger-bevel/bevel-operator-fabric/pull/287#issuecomment-3448724201) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
+3. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+4. 💪 Opened PR [#163](undefined) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+5. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-connector](https://github.com/adityajoshi12/hlf-connector)
+6. ✔️ Closed issue [#64](https://github.com/hyperledger-labs/hlf-connector/issues/64) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+7. ❌ Closed PR [#61](undefined) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+8. 💬 Commented on [#19500](https://github.com/microsoft/terminal/pull/19500#issuecomment-3446555823) in [microsoft/terminal](https://github.com/microsoft/terminal)
+9. ⬆️ Pushed undefined commit(s) to [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
+10. 💪 Opened PR [#287](undefined) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
 <!--RECENT_ACTIVITY:end-->
 
 

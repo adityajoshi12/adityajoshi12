@@ -88,11 +88,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hands On with Google Cloud Storage](https://levelup.gitconnected.com/hands-on-with-google-cloud-storage-3d595c73bad6?source=rss-63332736e4ac------2)
 - [Open-closed principle in Golang](https://levelup.gitconnected.com/open-closed-principle-in-golang-f370f9fba9ea?source=rss-63332736e4ac------2)
 - [Understanding Google Cloud Storage: Buckets, Objects, and Permissions](https://levelup.gitconnected.com/understanding-google-cloud-storage-buckets-objects-and-permissions-8116ec3f3f72?source=rss-63332736e4ac------2)
 - [GCP Free Tier: What You Get &amp; How to Maximize It](https://levelup.gitconnected.com/gcp-free-tier-what-you-get-how-to-maximize-it-26760c1f0df7?source=rss-63332736e4ac------2)
 - [Why GitOps is the Backbone of Platform Engineering](https://levelup.gitconnected.com/why-gitops-is-the-backbone-of-platform-engineering-d197b941918d?source=rss-63332736e4ac------2)
-- [GitOps with FluxCD](https://levelup.gitconnected.com/gitops-with-fluxcd-3a3cfb72e817?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

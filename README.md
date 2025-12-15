@@ -128,7 +128,7 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/fabric-mcp-server](https://github.com/adityajoshi12/fabric-mcp-server)
+1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/fabric-mcp-server](https://github.com/adityajoshi12/fabric-mcp-server)
 3. ⬆️ Pushed undefined commit(s) to [adityajoshi12/fabric-mcp-server](https://github.com/adityajoshi12/fabric-mcp-server)
 4. ⬆️ Pushed undefined commit(s) to [adityajoshi12/fabric-mcp-server](https://github.com/adityajoshi12/fabric-mcp-server)

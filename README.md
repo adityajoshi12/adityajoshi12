@@ -128,16 +128,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+1. ❌ Closed PR [#1](undefined) in [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
 2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
 3. ⬆️ Pushed undefined commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
 4. ⬆️ Pushed undefined commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
-5. ⬆️ Pushed undefined commit(s) to [adityajoshi12/fabric-mcp-server](https://github.com/adityajoshi12/fabric-mcp-server)
-6. ⬆️ Pushed undefined commit(s) to [adityajoshi12/fabric-mcp-server](https://github.com/adityajoshi12/fabric-mcp-server)
-7. ❌ Closed PR [#36](undefined) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-8. ❌ Closed PR [#37](undefined) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-9. ❌ Closed PR [#33](undefined) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
-10. ❌ Closed PR [#31](undefined) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+5. ⬆️ Pushed undefined commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+6. ⬆️ Pushed undefined commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+7. ⬆️ Pushed undefined commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+8. ⬆️ Pushed undefined commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+9. ⬆️ Pushed undefined commit(s) to [adityajoshi12/akc-dcm-cli](https://github.com/adityajoshi12/akc-dcm-cli)
+10. ⬆️ Pushed undefined commit(s) to [adityajoshi12/fabric-mcp-server](https://github.com/adityajoshi12/fabric-mcp-server)
 <!--RECENT_ACTIVITY:end-->
 
 

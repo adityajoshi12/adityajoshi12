@@ -90,7 +90,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Kubernetes Leases](https://levelup.gitconnected.com/understanding-kubernetes-leases-c00f65c4ce5b?source=rss-63332736e4ac------2)
 - [One Job at a Time: ShedLock-Inspired Concurrency Control in Go](https://levelup.gitconnected.com/one-job-at-a-time-shedlock-inspired-concurrency-control-in-go-83c339750397?source=rss-63332736e4ac------2)
-- [Hands On with Google Cloud Storage](https://levelup.gitconnected.com/hands-on-with-google-cloud-storage-3d595c73bad6?source=rss-63332736e4ac------2)
+- [Hands On with Google Cloud Storage](https://medium.com/codetodeploy/hands-on-with-google-cloud-storage-3d595c73bad6?source=rss-63332736e4ac------2)
 - [Open-closed principle in Golang](https://levelup.gitconnected.com/open-closed-principle-in-golang-f370f9fba9ea?source=rss-63332736e4ac------2)
 - [Understanding Google Cloud Storage: Buckets, Objects, and Permissions](https://levelup.gitconnected.com/understanding-google-cloud-storage-buckets-objects-and-permissions-8116ec3f3f72?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->

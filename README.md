@@ -7,7 +7,7 @@
 <br>
 
 - 👨‍💻 Software Engineer 4@Walmart & Developer Advocate @Hyperledger
-- 🏆 CNCF Kubestronaut
+- 🏆 CNCF Kubestronaut, [Google Developer Experts (GDE)](https://developers.google.com/profile/u/adityajoshi)
 - 👨‍💻 Currently working on [HLF Chaincode Builder](https://hlf-chaincode-builder.bytelearn.in)
 - 🔭 I'm a Certified Hyperledger Fabric Administrator (CHFA) and Hyperledger Fabric Certified Practitioner (HFCP)!
 - 🏆 I'm also a Certified Kubernetes Administrator (CKA), Application Developer (CKAD) and Security Specialist (CKS)!

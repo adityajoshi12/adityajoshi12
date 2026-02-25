@@ -137,7 +137,6 @@
 7. ⬆️ Pushed undefined commit(s) to [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
 8. ⬆️ Pushed undefined commit(s) to [adityajoshi12/besu-quickstart](https://github.com/adityajoshi12/besu-quickstart)
 9. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ag-grid-demo](https://github.com/adityajoshi12/ag-grid-demo)
-10. ⬆️ Pushed undefined commit(s) to [adityajoshi12/flux-gitops](https://github.com/adityajoshi12/flux-gitops)
 <!--RECENT_ACTIVITY:end-->
 
 

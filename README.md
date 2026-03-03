@@ -136,8 +136,8 @@
 6. ⬆️ Pushed undefined commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 7. ⬆️ Pushed undefined commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 8. ⬆️ Pushed undefined commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-9. 💪 Opened PR [#164](undefined) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-10. 💪 Opened PR [#59](undefined) in [adityajoshi12/kubernetes-development](https://github.com/adityajoshi12/kubernetes-development)
+9. ⬆️ Pushed undefined commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
+10. 💪 Opened PR [#164](undefined) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 <!--RECENT_ACTIVITY:end-->
 
 

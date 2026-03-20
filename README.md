@@ -88,11 +88,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Agents Were Good. Running Them One at a Time Was Killing Me.](https://medium.com/google-cloud/my-agents-were-good-running-them-one-at-a-time-was-killing-me-7adab557acad?source=rss-63332736e4ac------2)
 - [I Tried to Plan a Trip. Two Hours Later, I Started Building an AI Agent.](https://adityaajoshi.medium.com/i-tried-to-plan-a-trip-two-hours-later-i-started-building-an-ai-agent-d0960bfc27b6?source=rss-63332736e4ac------2)
 - [Understanding Kubernetes Leases](https://levelup.gitconnected.com/understanding-kubernetes-leases-c00f65c4ce5b?source=rss-63332736e4ac------2)
 - [One Job at a Time: ShedLock-Inspired Concurrency Control in Go](https://levelup.gitconnected.com/one-job-at-a-time-shedlock-inspired-concurrency-control-in-go-83c339750397?source=rss-63332736e4ac------2)
 - [Hands On with Google Cloud Storage](https://medium.com/codetodeploy/hands-on-with-google-cloud-storage-3d595c73bad6?source=rss-63332736e4ac------2)
-- [Open-closed principle in Golang](https://levelup.gitconnected.com/open-closed-principle-in-golang-f370f9fba9ea?source=rss-63332736e4ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adityaprakashjoshi1)

@@ -129,10 +129,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/fabric-mcp-server](https://github.com/adityajoshi12/fabric-mcp-server)
-2. ⬆️ Pushed undefined commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-3. ⬆️ Pushed undefined commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-4. 💪 Opened PR [#165](undefined) in [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
-5. ⬆️ Pushed undefined commit(s) to [hyperledger-labs/hlf-connector](https://github.com/hyperledger-labs/hlf-connector)
 <!--RECENT_ACTIVITY:end-->
 
 

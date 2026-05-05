@@ -128,7 +128,7 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
+1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
 3. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)
 4. ⬆️ Pushed undefined commit(s) to [adityajoshi12/hlf-operator](https://github.com/adityajoshi12/hlf-operator)

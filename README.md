@@ -131,7 +131,6 @@
 1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 3. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-4. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 <!--RECENT_ACTIVITY:end-->
 
 

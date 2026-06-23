@@ -128,9 +128,10 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/K8s-Incident-Commander-Agent](https://github.com/adityajoshi12/K8s-Incident-Commander-Agent)
-2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/code_review_agent](https://github.com/adityajoshi12/code_review_agent)
+1. 🔴 Requested changes in [#320](https://github.com/hyperledger-bevel/bevel-operator-fabric/pull/320#pullrequestreview-4541298982) in [hyperledger-bevel/bevel-operator-fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)
+2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/K8s-Incident-Commander-Agent](https://github.com/adityajoshi12/K8s-Incident-Commander-Agent)
 3. ⬆️ Pushed undefined commit(s) to [adityajoshi12/code_review_agent](https://github.com/adityajoshi12/code_review_agent)
+4. ⬆️ Pushed undefined commit(s) to [adityajoshi12/code_review_agent](https://github.com/adityajoshi12/code_review_agent)
 <!--RECENT_ACTIVITY:end-->
 
 

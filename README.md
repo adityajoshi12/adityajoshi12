@@ -128,16 +128,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+1. ❗️ Opened issue [#597](https://github.com/nklmilojevic/sofka/issues/597) in [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)
 2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 3. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 4. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 5. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 6. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 7. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-8. 💪 Opened PR [#1](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-9. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-10. 💬 Commented on [#1132](https://github.com/kubernetes-sigs/agent-sandbox/pull/1132#issuecomment-5653358702) in [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
+8. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+9. 💪 Opened PR [#1](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+10. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 <!--RECENT_ACTIVITY:end-->
 
 

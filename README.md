@@ -88,8 +88,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Giving Your AI Agent Tools to Query Your Database &lpar;Safely&rpar;](https://medium.com/google-cloud/giving-your-ai-agent-tools-to-query-your-database-safely-bb27da17bf3d?source=rss-63332736e4ac------2)
-- [How to Build Your First AI Agent for Database Troubleshooting](https://medium.com/google-cloud/how-to-build-your-first-ai-agent-for-database-troubleshooting-53858f507dc7?source=rss-63332736e4ac------2)
+- [Giving Your AI Agent Tools to Query Your Database &lpar;Safely&rpar;](https://adityaajoshi.medium.com/giving-your-ai-agent-tools-to-query-your-database-safely-bb27da17bf3d?source=rss-63332736e4ac------2)
+- [How to Build Your First AI Agent for Database Troubleshooting](https://adityaajoshi.medium.com/how-to-build-your-first-ai-agent-for-database-troubleshooting-53858f507dc7?source=rss-63332736e4ac------2)
 - [Why So Many Men Quietly Delete Their Birthdays](https://adityaajoshi.medium.com/why-so-many-men-quietly-delete-their-birthdays-9fb21bbbfa35?source=rss-63332736e4ac------2)
 - [Understanding Kubernetes Out of Memory &lpar;OOM&rpar;](https://levelup.gitconnected.com/understanding-kubernetes-out-of-memory-oom-6c6cf21cf9dc?source=rss-63332736e4ac------2)
 - [Running Gemma 4 Locally: A Step-by-Step Guide to Private, High-Performance AI](https://adityaajoshi.medium.com/running-gemma-4-locally-a-step-by-step-guide-to-private-high-performance-ai-79e62327f4ca?source=rss-63332736e4ac------2)

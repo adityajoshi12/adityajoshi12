@@ -137,7 +137,6 @@
 7. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 8. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 9. ❗️ Opened issue [#597](https://github.com/nklmilojevic/sofka/issues/597) in [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)
-10. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 <!--RECENT_ACTIVITY:end-->
 
 

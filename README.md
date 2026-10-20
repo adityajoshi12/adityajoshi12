@@ -135,7 +135,6 @@
 5. 💬 Commented on [#1132](https://github.com/kubernetes-sigs/agent-sandbox/pull/1132#issuecomment-5771516401) in [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
 6. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 7. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-8. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 <!--RECENT_ACTIVITY:end-->
 
 

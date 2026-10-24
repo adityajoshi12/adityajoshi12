@@ -128,9 +128,11 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1132](https://github.com/kubernetes-sigs/agent-sandbox/pull/1132#issuecomment-5807956330) in [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
-2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/agent-sandbox](https://github.com/adityajoshi12/agent-sandbox)
-3. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+2. 💪 Opened PR [#4](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+3. 💪 Opened PR [#3](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+4. 💬 Commented on [#1132](https://github.com/kubernetes-sigs/agent-sandbox/pull/1132#issuecomment-5807956330) in [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
+5. ⬆️ Pushed undefined commit(s) to [adityajoshi12/agent-sandbox](https://github.com/adityajoshi12/agent-sandbox)
 <!--RECENT_ACTIVITY:end-->
 
 

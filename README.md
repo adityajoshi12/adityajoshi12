@@ -128,16 +128,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-3. 💪 Opened PR [#7](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-4. 💪 Opened PR [#6](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-5. 💪 Opened PR [#5](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-6. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-7. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+3. 💪 Opened PR [#8](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+4. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+5. 💪 Opened PR [#7](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+6. 💪 Opened PR [#6](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+7. 💪 Opened PR [#5](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 8. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-9. 💪 Opened PR [#4](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-10. 💪 Opened PR [#3](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+9. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+10. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 <!--RECENT_ACTIVITY:end-->
 
 

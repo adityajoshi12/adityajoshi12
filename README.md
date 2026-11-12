@@ -128,16 +128,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+1. 💪 Opened PR [#9](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 2. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 3. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 4. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 5. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 6. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 7. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-8. 💪 Opened PR [#8](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-9. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
-10. 💪 Opened PR [#7](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+8. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+9. 💪 Opened PR [#8](undefined) in [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
+10. ⬆️ Pushed undefined commit(s) to [adityajoshi12/ai-workshops](https://github.com/adityajoshi12/ai-workshops)
 <!--RECENT_ACTIVITY:end-->
 
 

@@ -107,7 +107,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/ezPZOa2QR2E"><img width="140px" src="https://i.ytimg.com/vi/ezPZOa2QR2E/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/6ePrKftGa_k"><img width="140px" src="https://i.ytimg.com/vi/6ePrKftGa_k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/6ePrKftGa_k">Kubernetes Deployments Explained in 60s #Shorts|  ADITYA JOSHI | #kubernetes #devops</a><br/>Nov 16, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/ezPZOa2QR2E"><img width="140px" src="https://i.ytimg.com/vi/ezPZOa2QR2E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ezPZOa2QR2E">What Is a Kubernetes Pod? Architecture &amp; Commands | ADITYA JOSHI |</a><br/>Nov 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZL56I79bfW8"><img width="140px" src="https://i.ytimg.com/vi/ZL56I79bfW8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZL56I79bfW8">Building MCP Server for Kubernetes | ADITYA JOSHI |</a><br/>Apr 10, 2026</td></tr></table>
@@ -115,8 +117,6 @@
 <td><a href="https://www.youtube.com/watch?v=TShi3s66rgY">Model Context Protocol - MCP | AI Systems | ADITYA JOSHI |</a><br/>Apr 5, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iMTMCuH61J8"><img width="140px" src="https://i.ytimg.com/vi/iMTMCuH61J8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iMTMCuH61J8">Stop Deploying Manually! Use Flux + GitOps | ADITYA JOSHI |</a><br/>Jul 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-L4uK-0I22c"><img width="140px" src="https://i.ytimg.com/vi/-L4uK-0I22c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-L4uK-0I22c">Hyperledger Fabric Chaincode Builder | ADITYA JOSHI |</a><br/>May 26, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

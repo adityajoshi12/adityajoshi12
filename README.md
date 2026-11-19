@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=adityajoshi.online&style=for-the-badge&url=https%3A%2F%2Fadityajoshi.online)](https://adityajoshi.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityaajoshi12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityajoshi12&screen_name=adityaajoshi12)
 
-## I'm a Senior SDE@Walmart, [CNCF Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=in&p=aditya-joshi) and [Instructor@Udemy](https://www.udemy.com/user/aditya-joshi-9)!!
+## I'm a Senior SDE@Walmart,[Google Developer Experts](https://me.developers.google.com/u/adityajoshi) , [CNCF Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=in&p=aditya-joshi) and [Instructor@Udemy](https://www.udemy.com/user/aditya-joshi-9)!!
 <br>
 
-- 👨‍💻 Software Engineer 4@Walmart & Developer Advocate @Hyperledger
+- 👨‍💻 Senior Software Engineer @Walmart & Developer Advocate @Hyperledger
 - 🏆 CNCF Kubestronaut, [Google Developer Experts (GDE)](https://developers.google.com/profile/u/adityajoshi)
 - 👨‍💻 Currently working on [HLF Chaincode Builder](https://hlf-chaincode-builder.bytelearn.in)
 - 🔭 I'm a Certified Hyperledger Fabric Administrator (CHFA) and Hyperledger Fabric Certified Practitioner (HFCP)!

@@ -107,7 +107,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/4SpfdAfegy0"><img width="140px" src="https://i.ytimg.com/vi/4SpfdAfegy0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/aunJLokzlqQ"><img width="140px" src="https://i.ytimg.com/vi/aunJLokzlqQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/aunJLokzlqQ">What Happens When You Run kubectl apply? ☸️ #Shorts | ADITYA JOSHI |</a><br/>Nov 20, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/4SpfdAfegy0"><img width="140px" src="https://i.ytimg.com/vi/4SpfdAfegy0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/4SpfdAfegy0">Database Sharding vs Replication Explained! #Shorts|  ADITYA JOSHI |</a><br/>Nov 19, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/4lXpgOpiC9M"><img width="140px" src="https://i.ytimg.com/vi/4lXpgOpiC9M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/4lXpgOpiC9M">Model Context Protocol Explained in 60 Seconds #Shorts | ADITYA JOSHI |</a><br/>Nov 18, 2026</td></tr></table>
@@ -115,8 +117,6 @@
 <td><a href="https://www.youtube.com/shorts/6ePrKftGa_k">Kubernetes Deployments Explained in 60s #Shorts|  ADITYA JOSHI | #kubernetes #devops</a><br/>Nov 16, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ezPZOa2QR2E"><img width="140px" src="https://i.ytimg.com/vi/ezPZOa2QR2E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ezPZOa2QR2E">What Is a Kubernetes Pod? Architecture &amp; Commands | ADITYA JOSHI |</a><br/>Nov 15, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZL56I79bfW8"><img width="140px" src="https://i.ytimg.com/vi/ZL56I79bfW8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZL56I79bfW8">Building MCP Server for Kubernetes | ADITYA JOSHI |</a><br/>Apr 10, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 

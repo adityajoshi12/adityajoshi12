@@ -107,7 +107,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/1wvSPRCIJuk"><img width="140px" src="https://i.ytimg.com/vi/1wvSPRCIJuk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/b2IylglWRrI"><img width="140px" src="https://i.ytimg.com/vi/b2IylglWRrI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/b2IylglWRrI">Docker Sandbox: How MicroVMs Stop AI Agent Breakouts #Shorts|  ADITYA JOSHI |</a><br/>Nov 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/1wvSPRCIJuk"><img width="140px" src="https://i.ytimg.com/vi/1wvSPRCIJuk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/1wvSPRCIJuk">Kubernetes Explained in 60 Seconds #Shorts</a><br/>Nov 21, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/aunJLokzlqQ"><img width="140px" src="https://i.ytimg.com/vi/aunJLokzlqQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/aunJLokzlqQ">What Happens When You Run kubectl apply? ☸️ #Shorts | ADITYA JOSHI |</a><br/>Nov 20, 2026</td></tr></table>
@@ -115,8 +117,6 @@
 <td><a href="https://www.youtube.com/shorts/4SpfdAfegy0">Database Sharding vs Replication Explained! #Shorts|  ADITYA JOSHI |</a><br/>Nov 19, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/4lXpgOpiC9M"><img width="140px" src="https://i.ytimg.com/vi/4lXpgOpiC9M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/4lXpgOpiC9M">Model Context Protocol Explained in 60 Seconds #Shorts | ADITYA JOSHI |</a><br/>Nov 18, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/6ePrKftGa_k"><img width="140px" src="https://i.ytimg.com/vi/6ePrKftGa_k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/6ePrKftGa_k">Kubernetes Deployments Explained in 60s #Shorts|  ADITYA JOSHI | #kubernetes #devops</a><br/>Nov 16, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
